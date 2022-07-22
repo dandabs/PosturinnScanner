@@ -1,0 +1,1361 @@
+code,service,time,from
+CG004000045IS,InternationalParcel,na,na
+CG004000054IS,InternationalParcel,2022-04-07T12:16:00+00:00,Pósthús Selfossi
+CG004000111IS,InternationalParcel,na,na
+CG004000743IS,InternationalParcel,na,na
+CG004000757IS,InternationalParcel,2022-04-07T14:05:01+00:00,Pósthús Akureyri
+CG004000805IS,InternationalParcel,2022-04-07T14:02:33+00:00,210
+CG004000845IS,InternationalParcel,2022-04-07T14:21:50+00:00,Pósthús Hafnarfirði
+CG003600026IS,InternationalParcel,2021-09-30T20:42:00+00:00,Póstmiðstöð
+CG003600030IS,InternationalParcel,2021-09-29T15:09:20+00:00,Pósthús Síðumúla 3-5
+CG004000902IS,InternationalParcel,2022-04-07T14:38:01+00:00,Pósthús Hagatorgi 1
+CG004000920IS,InternationalParcel,2022-04-07T14:39:00+00:00,Pósthús Kópavogi
+CG004001324IS,InternationalParcel,na,na
+CG004001341IS,InternationalParcel,na,na
+CG004001505IS,InternationalParcel,na,na
+CG004001514IS,InternationalParcel,na,na
+CG004010003IS,InternationalParcel,na,na
+CG004010025IS,InternationalParcel,na,na
+CG004001593IS,InternationalParcel,2022-04-11T09:32:05+00:00,Pósthús Hagatorgi 1
+CG004001616IS,InternationalParcel,2022-04-07T21:58:42+00:00,Póstbox Mosfellsbær við A
+CG004010082IS,InternationalParcel,2022-04-13T17:02:09+00:00,270
+CG004001664IS,InternationalParcel,na,na
+CG004010241IS,InternationalParcel,2022-04-19T18:44:01+00:00,Póstmiðstöð
+CG004010272IS,InternationalParcel,na,na
+CG004001837IS,InternationalParcel,2022-04-08T14:03:13+00:00,Pósthús Hagatorgi 1
+CG004001911IS,InternationalParcel,2022-04-11T11:08:31+00:00,Póstmiðstöð
+CG004001956IS,InternationalParcel,na,na
+CG004010414IS,InternationalParcel,na,na
+CG004010445IS,InternationalParcel,2022-04-20T09:38:06+00:00,Pósthús Þönglabakka 4
+CG004002072IS,InternationalParcel,na,na
+CG004002228IS,InternationalParcel,na,na
+CG004002506IS,InternationalParcel,2022-04-08T12:19:52+00:00,Pósthús Höfðabakka 9 C
+CG004002642IS,InternationalParcel,2022-04-11T16:39:04+00:00,Póstmiðstöð
+CG004002744IS,InternationalParcel,2022-04-08T13:13:48+00:00,Pósthús Höfðabakka 9 C
+CG004002761IS,InternationalParcel,2022-04-08T13:17:24+00:00,Pósthús Þönglabakka 4
+RG000700039IS,InternationalLetter,2021-12-22T15:28:07+00:00,270
+RG000700056IS,InternationalLetter,2021-12-22T15:34:28+00:00,Pósthús Síðumúla 3-5
+CG004002815IS,InternationalParcel,2022-04-08T13:34:27+00:00,Pósthús Höfðabakka 9 C
+CG004002846IS,InternationalParcel,2022-04-08T13:37:58+00:00,Pósthús Akureyri
+CG004002885IS,InternationalParcel,2022-04-08T13:45:17+00:00,Pósthús Hafnarfirði
+CG004003002IS,InternationalParcel,2022-04-08T13:58:38+00:00,Pósthús Akureyri
+RG000800068IS,InternationalLetter,2022-05-20T10:13:08+00:00,Pósthús Akureyri
+RG000800071IS,InternationalLetter,2022-05-20T10:13:08+00:00,Pósthús Akureyri
+RG000800099IS,InternationalLetter,2022-05-20T14:55:10+00:00,Pósthús Síðumúla 3-5
+RG000800108IS,InternationalLetter,na,na
+RG000800125IS,InternationalLetter,2022-05-20T14:55:10+00:00,Pósthús Síðumúla 3-5
+CG004003197IS,InternationalParcel,2022-04-08T14:29:03+00:00,Pósthús Patreksfirði
+CG004003223IS,InternationalParcel,na,na
+RG000800160IS,InternationalLetter,2022-05-23T10:25:33+00:00,Pósthús Reykjanesbæ
+CG004003271IS,InternationalParcel,na,na
+RG000800244IS,InternationalLetter,na,na
+RG000800258IS,InternationalLetter,na,na
+RG000800289IS,InternationalLetter,2022-05-20T11:40:50+00:00,Pósthús Hafnarfirði
+CG004003475IS,InternationalParcel,2022-04-20T14:59:20+00:00,Pósthús Stykkishólmi
+RG000800425IS,InternationalLetter,2022-05-20T12:29:10+00:00,Pósthús Vestmannaeyjum
+RG000800434IS,InternationalLetter,2022-05-20T19:49:24+00:00,Póstmiðstöð
+RG000800451IS,InternationalLetter,2022-05-20T14:55:10+00:00,Pósthús Síðumúla 3-5
+RG000800479IS,InternationalLetter,2022-05-24T15:07:03+00:00,Pósthús Hafnarfirði
+RG000800540IS,InternationalLetter,2022-05-20T13:05:48+00:00,Pósthús Þönglabakka 4
+CG004003617IS,InternationalParcel,2022-04-08T15:35:47+00:00,Pósthús Þönglabakka 4
+RG000800553IS,InternationalLetter,2022-05-20T13:17:22+00:00,Pósthús Akureyri
+RG000800567IS,InternationalLetter,2022-05-20T13:20:46+00:00,Pósthús Þönglabakka 4
+RG000800638IS,InternationalLetter,2022-05-25T13:49:15+00:00,Pósthús Fáskrúðsfirði
+CG004003705IS,InternationalParcel,2022-04-08T15:50:05+00:00,Pósthús Síðumúla 3-5
+RG000800672IS,InternationalLetter,2022-05-20T14:14:35+00:00,Pósthús Akureyri
+CG004003824IS,InternationalParcel,2022-04-08T19:56:44+00:00,Póstbox Barónsstíg við Ex
+CG004003957IS,InternationalParcel,na,na
+CG004003991IS,InternationalParcel,na,na
+RG000810048IS,InternationalLetter,2022-06-02T15:33:39+00:00,Pósthús Síðumúla 3-5
+CG004004087IS,InternationalParcel,2022-04-10T11:16:45+00:00,Póstbox Keflavík við póst
+CG004004189IS,InternationalParcel,na,na
+RG000820005IS,InternationalLetter,2022-06-21T16:23:27+00:00,Póstmiðstöð
+RG000820014IS,InternationalLetter,2022-06-15T16:48:52+00:00,Pósthús Hagatorgi 1
+CG004004215IS,InternationalParcel,2022-04-10T18:00:44+00:00,Póstbox Grímsbæ við Kramb
+RG000820045IS,InternationalLetter,2022-06-16T10:32:20+00:00,Pósthús Höfðabakka 9 C
+CG004004232IS,InternationalParcel,2022-04-10T18:40:46+00:00,Póstbox Hraunbæ við Orkun
+RG000820059IS,InternationalLetter,2022-06-16T10:54:45+00:00,Pósthús Höfðabakka 9 C
+RG000830008IS,InternationalLetter,2022-07-01T13:32:53+00:00,Pósthús Kópavogi
+CG004004379IS,InternationalParcel,na,na
+CG004004396IS,InternationalParcel,2022-04-11T08:28:46+00:00,Póstbox Hvolsvelli við Or
+CG004004405IS,InternationalParcel,na,na
+RG000830042IS,InternationalLetter,2022-07-01T13:23:10+00:00,Pósthús Höfðabakka 9 C
+RG000830056IS,InternationalLetter,2022-07-01T13:42:13+00:00,Pósthús Þönglabakka 4
+CG004004453IS,InternationalParcel,na,na
+CG004004484IS,InternationalParcel,2022-04-11T11:24:57+00:00,Pósthús Síðumúla 3-5
+CG004004507IS,InternationalParcel,2022-04-11T10:02:50+00:00,Pósthús Hafnarfirði
+RG000835005IS,InternationalLetter,2022-07-08T11:32:41+00:00,Pósthús Hagatorgi 1
+RG000835019IS,InternationalLetter,na,na
+RG000835022IS,InternationalLetter,2022-07-12T17:17:29+00:00,Póstmiðstöð
+RG000835036IS,InternationalLetter,2022-07-08T12:23:49+00:00,Pósthús Akureyri
+RG000835040IS,InternationalLetter,2022-07-08T12:23:49+00:00,Pósthús Akureyri
+RG000835053IS,InternationalLetter,2022-07-08T12:23:49+00:00,Pósthús Akureyri
+RG000835067IS,InternationalLetter,2022-07-13T16:29:25+00:00,Póstmiðstöð
+RG000835075IS,InternationalLetter,2022-07-08T12:31:29+00:00,Pósthús Selfossi
+RG000835084IS,InternationalLetter,2022-07-08T12:36:30+00:00,Pósthús Reykjanesbæ
+RG000835098IS,InternationalLetter,2022-07-08T12:36:30+00:00,Pósthús Reykjanesbæ
+RG000835107IS,InternationalLetter,2022-07-08T13:06:24+00:00,Pósthús Kópavogi
+RG000835115IS,InternationalLetter,2022-07-08T12:38:20+00:00,Pósthús Hagatorgi 1
+RG000835124IS,InternationalLetter,2022-07-08T12:49:33+00:00,Pósthús Kópavogi
+RG000835138IS,InternationalLetter,2022-07-11T12:38:06+00:00,Póstmiðstöð
+RG000835141IS,InternationalLetter,2022-07-08T12:50:31+00:00,Pósthús Hafnarfirði
+RG000835155IS,InternationalLetter,2022-07-08T17:32:13+00:00,Póstmiðstöð
+RG000835169IS,InternationalLetter,2022-07-08T17:31:18+00:00,Póstmiðstöð
+RG000835172IS,InternationalLetter,2022-07-08T12:56:51+00:00,Pósthús Höfðabakka 9 C
+RG000835186IS,InternationalLetter,2022-07-08T17:32:23+00:00,Póstmiðstöð
+RG000835190IS,InternationalLetter,2022-07-08T15:33:26+00:00,Pósthús Síðumúla 3-5
+RG000835209IS,InternationalLetter,2022-07-08T17:31:49+00:00,Póstmiðstöð
+RG000835212IS,InternationalLetter,2022-07-08T15:43:17+00:00,Pósthús Síðumúla 3-5
+RG000835226IS,InternationalLetter,2022-07-08T17:31:35+00:00,Póstmiðstöð
+RG000835230IS,InternationalLetter,2022-07-08T17:32:00+00:00,Póstmiðstöð
+CG004004759IS,InternationalParcel,2022-04-12T18:32:26+00:00,Póstbox Barónsstíg við Ex
+RG000835243IS,InternationalLetter,2022-07-08T15:33:26+00:00,Pósthús Síðumúla 3-5
+RG000835257IS,InternationalLetter,2022-07-08T13:14:37+00:00,Pósthús Hagatorgi 1
+RG000835265IS,InternationalLetter,2022-07-08T13:10:47+00:00,Pósthús Höfðabakka 9 C
+RG000835274IS,InternationalLetter,2022-07-08T13:17:21+00:00,Pósthús Síðumúla 3-5
+RG000835288IS,InternationalLetter,na,na
+RG000835291IS,InternationalLetter,2022-07-11T16:30:55+00:00,Pósthús Síðumúla 3-5
+RG000835305IS,InternationalLetter,2022-07-08T13:33:21+00:00,Pósthús Kópavogi
+RG000835314IS,InternationalLetter,2022-07-08T13:44:02+00:00,Pósthús Síðumúla 3-5
+RG000835328IS,InternationalLetter,2022-07-08T13:40:02+00:00,Pósthús Hagatorgi 1
+RG000835331IS,InternationalLetter,2022-07-08T13:40:02+00:00,Pósthús Hagatorgi 1
+RG000835345IS,InternationalLetter,2022-07-08T13:49:13+00:00,Pósthús Þönglabakka 4
+RG000835359IS,InternationalLetter,2022-07-08T13:53:40+00:00,Pósthús Reykjanesbæ
+RG000835362IS,InternationalLetter,2022-07-08T13:57:05+00:00,Pósthús Hagatorgi 1
+RG000835376IS,InternationalLetter,2022-07-11T08:29:46+00:00,Póstmiðstöð
+RG000835380IS,InternationalLetter,2022-07-08T14:21:07+00:00,Pósthús Ísafirði
+RG000835393IS,InternationalLetter,2022-07-12T13:16:57+00:00,Póstmiðstöð
+RG000835402IS,InternationalLetter,2022-07-08T14:37:29+00:00,Pósthús Höfðabakka 9 C
+RG000835416IS,InternationalLetter,2022-07-11T16:30:55+00:00,Pósthús Síðumúla 3-5
+RG000835420IS,InternationalLetter,2022-07-08T14:44:51+00:00,Pósthús Síðumúla 3-5
+RG000835433IS,InternationalLetter,2022-07-08T14:43:11+00:00,Pósthús Akureyri
+RG000835447IS,InternationalLetter,2022-07-12T17:20:10+00:00,Póstmiðstöð
+RG000835455IS,InternationalLetter,2022-07-12T17:09:12+00:00,Póstmiðstöð
+RG000835464IS,InternationalLetter,2022-07-08T14:58:45+00:00,Pósthús Reyðarfirði
+CG004004997IS,InternationalParcel,na,na
+RG000835478IS,InternationalLetter,2022-07-08T14:58:42+00:00,Pósthús Síðumúla 3-5
+RG000835481IS,InternationalLetter,2022-07-13T16:29:43+00:00,Póstmiðstöð
+RG000835495IS,InternationalLetter,na,na
+RG000835504IS,InternationalLetter,2022-07-08T15:11:47+00:00,Pósthús Síðumúla 3-5
+RG000835518IS,InternationalLetter,2022-07-08T15:04:09+00:00,Pósthús Kópavogi
+RG000835521IS,InternationalLetter,2022-07-11T16:04:05+00:00,Pósthús Hagatorgi 1
+RG000835535IS,InternationalLetter,2022-07-08T15:26:51+00:00,Pósthús Reykjanesbæ
+RG000835549IS,InternationalLetter,2022-07-08T16:01:38+00:00,Pósthús Húsavík
+RG000835552IS,InternationalLetter,2022-07-12T17:20:32+00:00,Póstmiðstöð
+RG000835566IS,InternationalLetter,2022-07-12T17:15:01+00:00,Póstmiðstöð
+RG000835570IS,InternationalLetter,2022-07-12T17:14:55+00:00,Póstmiðstöð
+RG000835583IS,InternationalLetter,2022-07-08T16:15:40+00:00,Pósthús Síðumúla 3-5
+RG000835597IS,InternationalLetter,2022-07-08T16:19:28+00:00,Pósthús Akranesi
+RG000835606IS,InternationalLetter,2022-07-08T16:38:14+00:00,Pósthús Reyðarfirði
+RG000835610IS,InternationalLetter,2022-07-11T12:42:56+00:00,Póstmiðstöð
+RG000835623IS,InternationalLetter,2022-07-11T12:02:27+00:00,Pósthús Hagatorgi 1
+CG004005184IS,InternationalParcel,na,na
+RG000837006IS,InternationalLetter,2022-07-11T16:38:24+00:00,Pósthús Hagatorgi 1
+RG000837010IS,InternationalLetter,2022-07-11T16:53:35+00:00,Pósthús Kópavogi
+RG000837023IS,InternationalLetter,2022-07-11T16:52:54+00:00,Pósthús Akureyri
+RG000837037IS,InternationalLetter,2022-07-11T16:59:06+00:00,Pósthús Hagatorgi 1
+RG000837045IS,InternationalLetter,2022-07-13T15:40:49+00:00,Pósthús Akureyri
+RG000837054IS,InternationalLetter,2022-07-12T09:39:33+00:00,Pósthús Höfðabakka 9 C
+RG000837068IS,InternationalLetter,2022-07-13T16:01:07+00:00,Pósthús Reykjanesbæ
+RG000837071IS,InternationalLetter,2022-07-13T14:54:04+00:00,Pósthús Djúpavogi
+RG000837085IS,InternationalLetter,na,na
+RG000837099IS,InternationalLetter,2022-07-13T12:19:43+00:00,Pósthús Hagatorgi 1
+RG000837108IS,InternationalLetter,2022-07-12T12:59:38+00:00,Pósthús Hagatorgi 1
+RG000837111IS,InternationalLetter,2022-07-12T12:59:38+00:00,Pósthús Hagatorgi 1
+RG000837125IS,InternationalLetter,2022-07-12T17:00:36+00:00,Póstmiðstöð
+CG004005330IS,InternationalParcel,2022-04-11T12:30:12+00:00,Pósthús Akureyri
+RG000837139IS,InternationalLetter,2022-07-12T09:46:31+00:00,Pósthús Síðumúla 3-5
+RG000837142IS,InternationalLetter,2022-07-12T12:43:35+00:00,Pósthús Seyðisfirði
+RG000837156IS,InternationalLetter,2022-07-12T17:03:38+00:00,Póstmiðstöð
+RG000837160IS,InternationalLetter,2022-07-12T17:03:43+00:00,Póstmiðstöð
+RG000837173IS,InternationalLetter,2022-07-12T15:14:11+00:00,Pósthús Síðumúla 3-5
+RG000837187IS,InternationalLetter,2022-07-12T17:03:48+00:00,Póstmiðstöð
+RG000837195IS,InternationalLetter,2022-07-12T15:14:11+00:00,Pósthús Síðumúla 3-5
+RG000837200IS,InternationalLetter,2022-07-12T17:03:28+00:00,Póstmiðstöð
+RG000837213IS,InternationalLetter,2022-07-12T15:14:11+00:00,Pósthús Síðumúla 3-5
+RG000837227IS,InternationalLetter,2022-07-12T17:03:33+00:00,Póstmiðstöð
+RG000837235IS,InternationalLetter,2022-07-12T17:00:28+00:00,Póstmiðstöð
+RG000837244IS,InternationalLetter,2022-07-12T15:14:11+00:00,Pósthús Síðumúla 3-5
+RG000837258IS,InternationalLetter,2022-07-12T17:02:23+00:00,Póstmiðstöð
+RG000837261IS,InternationalLetter,2022-07-12T17:03:09+00:00,Póstmiðstöð
+RG000837275IS,InternationalLetter,2022-07-12T15:14:11+00:00,Pósthús Síðumúla 3-5
+RG000837289IS,InternationalLetter,2022-07-12T15:14:11+00:00,Pósthús Síðumúla 3-5
+RG000837292IS,InternationalLetter,2022-07-12T15:14:11+00:00,Pósthús Síðumúla 3-5
+RG000837301IS,InternationalLetter,2022-07-12T10:59:02+00:00,Pósthús Kópavogi
+CG004005502IS,InternationalParcel,2022-04-11T13:22:44+00:00,Pósthús Kópavogi
+RG000837315IS,InternationalLetter,2022-07-12T10:06:50+00:00,Pósthús Höfðabakka 9 C
+RG000837329IS,InternationalLetter,2022-07-12T10:07:30+00:00,Pósthús Akranesi
+RG000837332IS,InternationalLetter,2022-07-12T10:21:22+00:00,Pósthús Höfðabakka 9 C
+RG000837346IS,InternationalLetter,2022-07-12T14:37:08+00:00,Pósthús Hafnarfirði
+RG000837350IS,InternationalLetter,2022-07-12T14:37:08+00:00,Pósthús Hafnarfirði
+RG000837363IS,InternationalLetter,2022-07-12T09:57:54+00:00,Pósthús Höfðabakka 9 C
+RG000837377IS,InternationalLetter,2022-07-12T11:59:21+00:00,Pósthús Hagatorgi 1
+RG000837385IS,InternationalLetter,2022-07-12T11:59:21+00:00,Pósthús Hagatorgi 1
+RG000837394IS,InternationalLetter,2022-07-12T11:59:21+00:00,Pósthús Hagatorgi 1
+RG000837403IS,InternationalLetter,2022-07-12T11:59:21+00:00,Pósthús Hagatorgi 1
+RG000837417IS,InternationalLetter,2022-07-12T10:47:02+00:00,Pósthús Reykjanesbæ
+RG000837425IS,InternationalLetter,2022-07-12T14:10:38+00:00,Pósthús Síðumúla 3-5
+CG004005635IS,InternationalParcel,2022-04-11T13:50:15+00:00,Pósthús Höfðabakka 9 C
+CG004005706IS,InternationalParcel,na,na
+RG000838001IS,InternationalLetter,2022-07-12T15:15:52+00:00,Pósthús Síðumúla 3-5
+RG000838015IS,InternationalLetter,2022-07-12T15:20:50+00:00,Pósthús Borgarnesi
+RG000838029IS,InternationalLetter,2022-07-13T13:57:47+00:00,Pósthús Hagatorgi 1
+RG000838032IS,InternationalLetter,2022-07-12T15:28:06+00:00,Pósthús Akureyri
+RG000838046IS,InternationalLetter,2022-07-12T15:34:01+00:00,Pósthús Reykjanesbæ
+RG000838050IS,InternationalLetter,2022-07-12T15:42:33+00:00,Pósthús Síðumúla 3-5
+CG004005768IS,InternationalParcel,na,na
+RG000838063IS,InternationalLetter,na,na
+RG000838077IS,InternationalLetter,2022-07-12T15:57:26+00:00,Pósthús Kópavogi
+RG000838085IS,InternationalLetter,2022-07-13T14:11:54+00:00,Pósthús Höfðabakka 9 C
+RG000838094IS,InternationalLetter,2022-07-12T16:04:52+00:00,Pósthús Höfðabakka 9 C
+CG004005808IS,InternationalParcel,2022-04-11T14:33:25+00:00,Pósthús Reykjanesbæ
+RG000838103IS,InternationalLetter,2022-07-12T16:23:57+00:00,Pósthús Sauðárkróki
+CG004005811IS,InternationalParcel,na,na
+RG000838117IS,InternationalLetter,2022-07-12T16:26:37+00:00,Pósthús Síðumúla 3-5
+RG000838125IS,InternationalLetter,2022-07-12T16:35:33+00:00,Pósthús Hagatorgi 1
+CG004005839IS,InternationalParcel,2022-04-12T11:37:24+00:00,Pósthús Höfðabakka 9 C
+RG000838134IS,InternationalLetter,2022-07-12T16:50:45+00:00,Pósthús Höfðabakka 9 C
+RG000838148IS,InternationalLetter,2022-07-13T14:10:00+00:00,Pósthús Höfðabakka 9 C
+RG000838151IS,InternationalLetter,2022-07-13T09:52:41+00:00,Pósthús Hagatorgi 1
+RG000838165IS,InternationalLetter,2022-07-13T11:49:55+00:00,Pósthús Kópavogi
+CG004005873IS,InternationalParcel,2022-04-11T14:45:47+00:00,Pósthús Þönglabakka 4
+RG000838179IS,InternationalLetter,na,na
+RG000838182IS,InternationalLetter,2022-07-13T12:46:01+00:00,Póstmiðstöð
+RG000838196IS,InternationalLetter,2022-07-13T12:46:10+00:00,Póstmiðstöð
+RG000838205IS,InternationalLetter,2022-07-13T13:13:41+00:00,Pósthús Selfossi
+RG000838219IS,InternationalLetter,na,na
+RG000838222IS,InternationalLetter,2022-07-13T17:09:11+00:00,Póstmiðstöð
+CG004005927IS,InternationalParcel,2022-04-12T15:28:31+00:00,Pósthús Reykjanesbæ
+RG000838236IS,InternationalLetter,2022-07-13T17:08:00+00:00,Póstmiðstöð
+RG000838240IS,InternationalLetter,2022-07-13T17:08:06+00:00,Póstmiðstöð
+CG004005944IS,InternationalParcel,2022-04-11T15:02:45+00:00,Pósthús Akureyri
+RG000838253IS,InternationalLetter,2022-07-13T17:08:22+00:00,Póstmiðstöð
+RG000838267IS,InternationalLetter,2022-07-13T17:09:06+00:00,Póstmiðstöð
+RG000838275IS,InternationalLetter,2022-07-13T17:09:16+00:00,Póstmiðstöð
+RG000838284IS,InternationalLetter,2022-07-13T17:08:11+00:00,Póstmiðstöð
+RG000838298IS,InternationalLetter,2022-07-13T17:08:17+00:00,Póstmiðstöð
+RG000838307IS,InternationalLetter,2022-07-13T17:08:27+00:00,Póstmiðstöð
+RG000838315IS,InternationalLetter,2022-07-13T17:08:32+00:00,Póstmiðstöð
+RG000838324IS,InternationalLetter,2022-07-13T17:08:37+00:00,Póstmiðstöð
+CG004006026IS,InternationalParcel,2022-04-11T15:18:25+00:00,Pósthús Höfðabakka 9 C
+RG000838338IS,InternationalLetter,2022-07-13T15:22:23+00:00,Pósthús Síðumúla 3-5
+RG000838341IS,InternationalLetter,2022-07-13T15:23:29+00:00,Pósthús Síðumúla 3-5
+RG000838355IS,InternationalLetter,2022-07-13T15:23:28+00:00,Pósthús Síðumúla 3-5
+RG000838369IS,InternationalLetter,2022-07-13T15:23:28+00:00,Pósthús Síðumúla 3-5
+RG000838372IS,InternationalLetter,2022-07-13T15:23:27+00:00,Pósthús Síðumúla 3-5
+RG000838386IS,InternationalLetter,na,na
+RG000838390IS,InternationalLetter,2022-07-13T15:23:27+00:00,Pósthús Síðumúla 3-5
+RG000838409IS,InternationalLetter,2022-07-13T15:23:26+00:00,Pósthús Síðumúla 3-5
+RG000838412IS,InternationalLetter,2022-07-13T15:23:26+00:00,Pósthús Síðumúla 3-5
+RG000838426IS,InternationalLetter,2022-07-13T15:22:23+00:00,Pósthús Síðumúla 3-5
+RG000838430IS,InternationalLetter,na,na
+RG000838443IS,InternationalLetter,2022-07-13T15:23:25+00:00,Pósthús Síðumúla 3-5
+RG000838457IS,InternationalLetter,2022-07-13T10:06:26+00:00,Pósthús Síðumúla 3-5
+RG000838465IS,InternationalLetter,2022-07-13T11:04:27+00:00,Pósthús Egilsstöðum
+RG000838474IS,InternationalLetter,na,na
+RG000838488IS,InternationalLetter,2022-07-13T16:41:27+00:00,Póstmiðstöð
+RG000838491IS,InternationalLetter,2022-07-13T15:00:24+00:00,Pósthús Hafnarfirði
+RG000838505IS,InternationalLetter,2022-07-13T10:13:49+00:00,Pósthús Hafnarfirði
+RG000838514IS,InternationalLetter,2022-07-13T10:14:29+00:00,Pósthús Reykjanesbæ
+RG000838528IS,InternationalLetter,na,na
+RG000838531IS,InternationalLetter,2022-07-13T14:18:43+00:00,Póstmiðstöð
+RG000838545IS,InternationalLetter,2022-07-13T14:18:49+00:00,Póstmiðstöð
+RG000838559IS,InternationalLetter,2022-07-13T15:23:24+00:00,Pósthús Síðumúla 3-5
+RG000838562IS,InternationalLetter,2022-07-13T10:24:10+00:00,Pósthús Höfðabakka 9 C
+RG000838576IS,InternationalLetter,na,na
+RG000838580IS,InternationalLetter,2022-07-13T10:37:44+00:00,Pósthús Þönglabakka 4
+RG000838593IS,InternationalLetter,na,na
+RG000838602IS,InternationalLetter,2022-07-13T12:19:43+00:00,Pósthús Hagatorgi 1
+RG000838616IS,InternationalLetter,2022-07-13T10:58:50+00:00,Pósthús Höfðabakka 9 C
+RG000838620IS,InternationalLetter,na,na
+RG000838633IS,InternationalLetter,2022-07-13T15:23:24+00:00,Pósthús Síðumúla 3-5
+RG000838647IS,InternationalLetter,na,na
+RG000838655IS,InternationalLetter,na,na
+RG000838664IS,InternationalLetter,2022-07-13T11:33:53+00:00,Pósthús Kópavogi
+RG000838678IS,InternationalLetter,2022-07-13T11:34:46+00:00,Pósthús Síðumúla 3-5
+RG000838681IS,InternationalLetter,2022-07-13T12:17:20+00:00,Pósthús Selfossi
+RG000838695IS,InternationalLetter,2022-07-13T12:16:56+00:00,Pósthús Kópavogi
+RG000838704IS,InternationalLetter,2022-07-13T16:31:20+00:00,Póstmiðstöð
+RG000838718IS,InternationalLetter,2022-07-13T16:33:21+00:00,Póstmiðstöð
+RG000838721IS,InternationalLetter,2022-07-13T16:33:14+00:00,Póstmiðstöð
+CG004006423IS,InternationalParcel,2022-04-13T09:41:00+00:00,210
+RG000838735IS,InternationalLetter,2022-07-13T12:22:52+00:00,Pósthús Hafnarfirði
+RG000838749IS,InternationalLetter,2022-07-13T16:33:06+00:00,Póstmiðstöð
+CG004006445IS,InternationalParcel,na,na
+RG000838752IS,InternationalLetter,2022-07-13T12:48:36+00:00,Pósthús Akureyri
+RG000838766IS,InternationalLetter,2022-07-13T12:56:17+00:00,Pósthús Kópavogi
+RG000838770IS,InternationalLetter,2022-07-13T16:32:38+00:00,Póstmiðstöð
+RG000838783IS,InternationalLetter,2022-07-13T12:33:52+00:00,Pósthús Hafnarfirði
+RG000838797IS,InternationalLetter,2022-07-13T12:49:57+00:00,Pósthús Höfðabakka 9 C
+RG000838806IS,InternationalLetter,2022-07-13T16:34:01+00:00,Póstmiðstöð
+RG000838810IS,InternationalLetter,2022-07-13T12:53:41+00:00,Pósthús Þönglabakka 4
+CG004006511IS,InternationalParcel,2022-04-20T15:19:49+00:00,Pósthús Síðumúla 3-5
+RG000838823IS,InternationalLetter,2022-07-13T12:54:17+00:00,Pósthús Hafnarfirði
+RG000838837IS,InternationalLetter,2022-07-13T13:07:01+00:00,Pósthús Hagatorgi 1
+RG000838845IS,InternationalLetter,2022-07-13T13:47:54+00:00,Pósthús Reykjanesbæ
+RG000838854IS,InternationalLetter,na,na
+RG000838868IS,InternationalLetter,2022-07-13T13:13:44+00:00,Pósthús Höfðabakka 9 C
+CG004006573IS,InternationalParcel,na,na
+RG000838871IS,InternationalLetter,na,na
+RG000838885IS,InternationalLetter,2022-07-13T13:17:32+00:00,Pósthús Síðumúla 3-5
+CG004006595IS,InternationalParcel,na,na
+RG000838899IS,InternationalLetter,2022-07-13T16:36:44+00:00,Póstmiðstöð
+RG000838908IS,InternationalLetter,na,na
+RG000838911IS,InternationalLetter,2022-07-13T16:36:03+00:00,Póstmiðstöð
+CG004006627IS,InternationalParcel,na,na
+RG000838925IS,InternationalLetter,2022-07-13T13:30:54+00:00,Pósthús Reykjanesbæ
+RG000838939IS,InternationalLetter,na,na
+RG000838942IS,InternationalLetter,2022-07-13T13:50:58+00:00,Pósthús Höfn
+RG000838956IS,InternationalLetter,2022-07-13T13:55:51+00:00,Pósthús Kópavogi
+RG000838960IS,InternationalLetter,2022-07-13T13:57:51+00:00,Pósthús Hagatorgi 1
+RG000838973IS,InternationalLetter,2022-07-13T14:10:33+00:00,Pósthús Selfossi
+RG000838987IS,InternationalLetter,2022-07-13T14:08:22+00:00,Pósthús Hagatorgi 1
+RG000838995IS,InternationalLetter,na,na
+RG000839007IS,InternationalLetter,na,na
+CG004006701IS,InternationalParcel,na,na
+RG000839015IS,InternationalLetter,2022-07-13T14:22:40+00:00,Pósthús Hagatorgi 1
+RG000839024IS,InternationalLetter,2022-07-13T14:22:39+00:00,Pósthús Hagatorgi 1
+RG000839038IS,InternationalLetter,2022-07-13T14:26:54+00:00,Pósthús Hagatorgi 1
+RG000839041IS,InternationalLetter,na,na
+RG000839055IS,InternationalLetter,na,na
+RG000839069IS,InternationalLetter,na,na
+RG000839072IS,InternationalLetter,na,na
+RG000839086IS,InternationalLetter,na,na
+RG000839090IS,InternationalLetter,2022-07-13T15:30:33+00:00,Pósthús Borgarnesi
+RG000839109IS,InternationalLetter,na,na
+RG000839112IS,InternationalLetter,2022-07-13T15:36:29+00:00,Pósthús Selfossi
+RG000839126IS,InternationalLetter,2022-07-13T15:44:34+00:00,Pósthús Akureyri
+RG000839130IS,InternationalLetter,2022-07-13T16:04:41+00:00,Pósthús Kópavogi
+RG000839143IS,InternationalLetter,2022-07-13T16:22:00+00:00,Pósthús Hagatorgi 1
+RG000839157IS,InternationalLetter,na,na
+RG000839165IS,InternationalLetter,2022-07-13T16:22:32+00:00,Pósthús Þönglabakka 4
+RG000839174IS,InternationalLetter,2022-07-13T16:24:15+00:00,Pósthús Höfðabakka 9 C
+CG004006879IS,InternationalParcel,2022-04-12T11:59:11+00:00,Pósthús Höfðabakka 9 C
+RG000839188IS,InternationalLetter,2022-07-13T16:56:33+00:00,Pósthús Hagatorgi 1
+RG000839191IS,InternationalLetter,2022-07-13T16:58:20+00:00,Pósthús Síðumúla 3-5
+RG000839205IS,InternationalLetter,2022-07-13T17:01:44+00:00,Pósthús Kópavogi
+RG000839214IS,InternationalLetter,na,na
+RG000839228IS,InternationalLetter,na,na
+RG000839231IS,InternationalLetter,na,na
+CG004006936IS,InternationalParcel,2022-04-12T12:47:30+00:00,Pósthús Síðumúla 3-5
+CG004006940IS,InternationalParcel,2022-04-13T18:17:46+00:00,Póstmiðstöð
+CG004006975IS,InternationalParcel,na,na
+CG004007097IS,InternationalParcel,2022-04-12T10:49:22+00:00,Pósthús Hafnarfirði
+CG004007211IS,InternationalParcel,na,na
+CG004007375IS,InternationalParcel,2022-04-12T12:38:55+00:00,860
+CG004007389IS,InternationalParcel,2022-04-12T12:38:55+00:00,860
+CG004007401IS,InternationalParcel,2022-04-12T18:26:52+00:00,Póstmiðstöð
+CG004007432IS,InternationalParcel,na,na
+CG004007707IS,InternationalParcel,na,na
+CG004007715IS,InternationalParcel,na,na
+CG004007772IS,InternationalParcel,na,na
+CG004007857IS,InternationalParcel,na,na
+CG004007905IS,InternationalParcel,2022-04-12T14:49:27+00:00,Pósthús Síðumúla 3-5
+CG004007976IS,InternationalParcel,2022-04-12T15:02:35+00:00,Pósthús Kópavogi
+CG004008089IS,InternationalParcel,2022-04-12T15:27:33+00:00,Pósthús Síðumúla 3-5
+CG004008101IS,InternationalParcel,2022-04-12T15:53:44+00:00,Pósthús Hvammstanga
+CG004008203IS,InternationalParcel,na,na
+CG004008322IS,InternationalParcel,na,na
+CG004008340IS,InternationalParcel,2022-04-13T12:15:28+00:00,Pósthús Síðumúla 3-5
+CG004008398IS,InternationalParcel,na,na
+CG004008424IS,InternationalParcel,na,na
+CG004008455IS,InternationalParcel,2022-04-12T18:25:20+00:00,Pósthús Vík
+CG004008469IS,InternationalParcel,na,na
+CG004008490IS,InternationalParcel,na,na
+CG004008509IS,InternationalParcel,na,na
+CG004008512IS,InternationalParcel,na,na
+CG004008574IS,InternationalParcel,2022-04-13T14:05:00+00:00,Pósthús Höfðabakka 9 C
+CG004008804IS,InternationalParcel,na,na
+CG004008835IS,InternationalParcel,2022-04-13T10:33:03+00:00,Pósthús Síðumúla 3-5
+CG004008866IS,InternationalParcel,2022-04-13T10:48:50+00:00,Pósthús Dalvík
+CG004008906IS,InternationalParcel,2022-04-13T10:54:53+00:00,Pósthús Hafnarfirði
+CG004009115IS,InternationalParcel,2022-04-13T12:15:42+00:00,Pósthús Síðumúla 3-5
+CG004009169IS,InternationalParcel,na,na
+CG004009230IS,InternationalParcel,na,na
+CG004009314IS,InternationalParcel,na,na
+CG004009362IS,InternationalParcel,2022-04-13T13:03:45+00:00,Pósthús Þönglabakka 4
+CG004009464IS,InternationalParcel,2022-04-13T13:34:20+00:00,850
+CG004009654IS,InternationalParcel,2022-04-13T14:45:16+00:00,Pósthús Hafnarfirði
+CG004009800IS,InternationalParcel,na,na
+CG004009889IS,InternationalParcel,2022-04-13T15:54:23+00:00,Pósthús Akureyri
+CG004010003IS,InternationalParcel,na,na
+CG004010025IS,InternationalParcel,na,na
+CG004010082IS,InternationalParcel,2022-04-13T17:02:09+00:00,270
+CG004010241IS,InternationalParcel,2022-04-19T18:44:01+00:00,Póstmiðstöð
+CG004010272IS,InternationalParcel,na,na
+CG004010414IS,InternationalParcel,na,na
+CG004010445IS,InternationalParcel,2022-04-20T09:38:06+00:00,Pósthús Þönglabakka 4
+CG004010533IS,InternationalParcel,2022-04-17T15:40:22+00:00,Póstbox Grímsbæ við Kramb
+CG004010811IS,InternationalParcel,2022-04-19T10:25:53+00:00,Pósthús Selfossi
+CG004010825IS,InternationalParcel,2022-04-19T11:03:38+00:00,850
+CG004010873IS,InternationalParcel,2022-04-19T13:36:25+00:00,Pósthús Akureyri
+CG004010895IS,InternationalParcel,na,na
+CG004010961IS,InternationalParcel,na,na
+CG004010975IS,InternationalParcel,na,na
+CG004011043IS,InternationalParcel,na,na
+CG004011105IS,InternationalParcel,2022-04-19T19:34:20+00:00,Póstmiðstöð
+CG004011131IS,InternationalParcel,na,na
+CG004011264IS,InternationalParcel,2022-04-19T10:22:13+00:00,Pósthús Húsavík
+CG004011304IS,InternationalParcel,2022-04-19T10:52:48+00:00,Pósthús Ísafirði
+CG004011410IS,InternationalParcel,2022-04-19T10:51:56+00:00,Pósthús Þönglabakka 4
+CG004011471IS,InternationalParcel,2022-04-19T11:51:20+00:00,Pósthús Reykjanesbæ
+CG004011525IS,InternationalParcel,na,na
+CG004011613IS,InternationalParcel,2022-04-19T14:41:18+00:00,Pósthús Djúpavogi
+CG004011689IS,InternationalParcel,2022-04-19T12:02:04+00:00,Pósthús Siglufirði
+CG004011834IS,InternationalParcel,2022-04-26T11:30:52+00:00,Póstmiðstöð
+CG004011905IS,InternationalParcel,2022-04-19T13:12:28+00:00,Pósthús Hafnarfirði
+CG004012106IS,InternationalParcel,2022-04-19T13:54:14+00:00,Pósthús Hveragerði
+CG004012123IS,InternationalParcel,2022-04-19T13:54:14+00:00,Pósthús Hveragerði
+CG004012137IS,InternationalParcel,2022-04-19T13:54:14+00:00,Pósthús Hveragerði
+CG004012145IS,InternationalParcel,2022-04-19T13:54:14+00:00,Pósthús Hveragerði
+CG004012239IS,InternationalParcel,2022-04-19T14:38:32+00:00,210
+CG004012450IS,InternationalParcel,2022-04-19T15:11:01+00:00,Pósthús Hveragerði
+CG004012477IS,InternationalParcel,2022-04-19T15:22:20+00:00,Pósthús Síðumúla 3-5
+CG004012551IS,InternationalParcel,2022-04-19T15:33:53+00:00,Pósthús Höfðabakka 9 C
+CG004012605IS,InternationalParcel,na,na
+CG004012684IS,InternationalParcel,2022-04-19T16:22:41+00:00,Pósthús Selfossi
+CG004012707IS,InternationalParcel,2022-04-19T16:22:41+00:00,Pósthús Selfossi
+CG004012738IS,InternationalParcel,2022-04-19T16:51:39+00:00,Pósthús Hafnarfirði
+CG004012755IS,InternationalParcel,2022-04-19T16:55:05+00:00,Pósthús Akureyri
+CG004012769IS,InternationalParcel,2022-04-19T16:55:25+00:00,Pósthús Hafnarfirði
+CG004012826IS,InternationalParcel,2022-04-22T14:55:19+00:00,Pósthús Síðumúla 3-5
+CG004013035IS,InternationalParcel,2022-04-22T13:40:54+00:00,Pósthús Hvammstanga
+CG004013092IS,InternationalParcel,2022-04-20T12:43:27+00:00,Pósthús Síðumúla 3-5
+CG004013101IS,InternationalParcel,2022-04-20T12:43:27+00:00,Pósthús Síðumúla 3-5
+CG004020102IS,InternationalParcel,2022-04-26T17:00:56+00:00,210
+CG004013217IS,InternationalParcel,2022-04-22T14:23:53+00:00,Póstmiðstöð
+CG004020116IS,InternationalParcel,2022-05-03T14:48:04+00:00,Póstmiðstöð
+CG004020133IS,InternationalParcel,na,na
+CG004013367IS,InternationalParcel,2022-04-20T16:35:52+00:00,Póstmiðstöð
+CG004013375IS,InternationalParcel,2022-04-20T20:49:42+00:00,Póstmiðstöð
+CG004013512IS,InternationalParcel,2022-04-20T15:33:21+00:00,270
+CG004013588IS,InternationalParcel,2022-04-22T11:15:04+00:00,Póstmiðstöð
+CG004030127IS,InternationalParcel,na,na
+CG004013645IS,InternationalParcel,2022-04-22T11:15:06+00:00,Póstmiðstöð
+CG004013676IS,InternationalParcel,2022-04-20T12:30:16+00:00,Pósthús Þönglabakka 4
+CG004013680IS,InternationalParcel,2022-04-22T11:15:07+00:00,Póstmiðstöð
+CG004030250IS,InternationalParcel,2022-05-06T11:10:58+00:00,Pósthús Reykjanesbæ
+CG004030317IS,InternationalParcel,na,na
+CG004013821IS,InternationalParcel,2022-04-22T11:15:09+00:00,Póstmiðstöð
+CG004013937IS,InternationalParcel,2022-04-22T11:58:50+00:00,Póstmiðstöð
+CG004013999IS,InternationalParcel,2022-04-20T13:55:47+00:00,Pósthús Ísafirði
+CG004040067IS,InternationalParcel,na,na
+CG004040172IS,InternationalParcel,2022-05-17T10:36:18+00:00,Pósthús Hagatorgi 1
+CG004040212IS,InternationalParcel,na,na
+CG004014257IS,InternationalParcel,2022-04-22T14:56:15+00:00,Pósthús Húsavík
+CG004014274IS,InternationalParcel,na,na
+CG004014288IS,InternationalParcel,2022-04-20T15:34:17+00:00,Pósthús Hagatorgi 1
+CG004040345IS,InternationalParcel,na,na
+CG004040402IS,InternationalParcel,2022-05-30T11:29:03+00:00,Pósthús Selfossi
+CG004014478IS,InternationalParcel,na,na
+CG004014570IS,InternationalParcel,na,na
+CG004040654IS,InternationalParcel,2022-05-17T13:09:22+00:00,Pósthús Hagatorgi 1
+CG004040708IS,InternationalParcel,2022-05-17T13:24:18+00:00,Pósthús Síðumúla 3-5
+CG004040725IS,InternationalParcel,na,na
+CG004014813IS,InternationalParcel,2022-04-22T16:51:03+00:00,Póstmiðstöð
+CG004014889IS,InternationalParcel,na,na
+CG004040858IS,InternationalParcel,2022-05-17T14:20:54+00:00,Pósthús Akureyri
+CG004015059IS,InternationalParcel,2022-04-22T11:41:43+00:00,Pósthús Grindavík
+CG004015102IS,InternationalParcel,na,na
+CG004015133IS,InternationalParcel,2022-04-22T09:44:01+00:00,Pósthús Hafnarfirði
+CG004015204IS,InternationalParcel,2022-04-25T16:40:10+00:00,Pósthús Kópavogi
+CG004041249IS,InternationalParcel,2022-05-17T17:11:54+00:00,Pósthús Höfðabakka 9 C
+CG004041252IS,InternationalParcel,na,na
+CG004015297IS,InternationalParcel,2022-04-22T15:03:33+00:00,Pósthús Reykjanesbær
+CG004041323IS,InternationalParcel,2022-05-18T15:32:49+00:00,Pósthús Reykjanesbæ
+CG004041345IS,InternationalParcel,2022-05-20T08:43:53+00:00,Pósthús Selfossi
+CG004015385IS,InternationalParcel,2022-04-22T11:17:53+00:00,Pósthús Hagatorgi 1
+CG004015442IS,InternationalParcel,na,na
+CG004041425IS,InternationalParcel,2022-05-18T15:40:48+00:00,Póstmiðstöð
+CG004041473IS,InternationalParcel,2022-05-18T16:59:15+00:00,Póstmiðstöð
+CG004015527IS,InternationalParcel,2022-04-22T12:17:38+00:00,Pósthús Hagatorgi 1
+CG004015544IS,InternationalParcel,2022-04-22T12:35:10+00:00,Pósthús Kópavogi
+CG004041513IS,InternationalParcel,2022-05-18T10:10:13+00:00,Pósthús Síðumúla 3-5
+CG004015592IS,InternationalParcel,2022-04-22T12:48:57+00:00,Pósthús Vopnafirði
+CG004015601IS,InternationalParcel,2022-04-22T12:50:41+00:00,Pósthús Kópavogi
+CG004015629IS,InternationalParcel,2022-04-22T14:58:16+00:00,Póstbox Barónsstíg við Ex
+CG004015703IS,InternationalParcel,na,na
+CG004015734IS,InternationalParcel,2022-04-22T13:30:41+00:00,Póstmiðstöð
+CG004041717IS,InternationalParcel,2022-05-18T11:37:38+00:00,Pósthús Kópavogi
+CG004015751IS,InternationalParcel,2022-04-22T13:20:43+00:00,Pósthús Síðumúla 3-5
+CG004041751IS,InternationalParcel,2022-05-18T14:19:22+00:00,Pósthús Hagatorgi 1
+CG004015796IS,InternationalParcel,2022-04-22T13:40:47+00:00,Pósthús Þönglabakka 4
+CG004041779IS,InternationalParcel,na,na
+CG004015972IS,InternationalParcel,2022-04-22T14:14:47+00:00,Pósthús Sauðárkróki
+CG004042010IS,InternationalParcel,2022-05-18T13:40:09+00:00,Pósthús Hagatorgi 1
+CG004016054IS,InternationalParcel,na,na
+CG004016139IS,InternationalParcel,2022-04-22T14:40:03+00:00,Pósthús Vestmannaeyjum
+CG004042125IS,InternationalParcel,2022-05-18T13:54:41+00:00,Pósthús Höfðabakka 9 C
+CG004042200IS,InternationalParcel,2022-05-18T14:17:19+00:00,Pósthús Þönglabakka 4
+CG004016258IS,InternationalParcel,na,na
+CG004042275IS,InternationalParcel,2022-05-19T10:30:45+00:00,Pósthús Kópavogi
+CG004042301IS,InternationalParcel,na,na
+CG004016394IS,InternationalParcel,2022-04-22T15:53:49+00:00,Pósthús Reykjanesbæ
+CG004042425IS,InternationalParcel,na,na
+CG004016448IS,InternationalParcel,2022-04-22T16:02:07+00:00,Pósthús Þönglabakka 4
+CG004042479IS,InternationalParcel,2022-05-18T16:27:49+00:00,Pósthús Hagatorgi 1
+CG004016641IS,InternationalParcel,na,na
+CG004016669IS,InternationalParcel,2022-04-24T14:06:37+00:00,Póstbox Tjarnarvöllum Hf.
+CG004016672IS,InternationalParcel,2022-04-24T14:08:37+00:00,Póstbox Tjarnarvöllum Hf.
+CG004042669IS,InternationalParcel,2022-05-19T16:10:36+00:00,Pósthús Selfossi
+CG004042712IS,InternationalParcel,2022-05-19T09:58:20+00:00,Pósthús Kópavogi
+CG004016788IS,InternationalParcel,2022-04-25T16:00:06+00:00,Póstmiðstöð
+CG004042805IS,InternationalParcel,na,na
+CG004042920IS,InternationalParcel,na,na
+CG004042947IS,InternationalParcel,2022-05-30T17:16:45+00:00,Póstbox Barónsstíg við Ex
+CG004042978IS,InternationalParcel,2022-05-19T11:34:14+00:00,Pósthús Akranesi
+CG004043117IS,InternationalParcel,na,na
+CG004017196IS,InternationalParcel,na,na
+CG004017222IS,InternationalParcel,na,na
+CG004017236IS,InternationalParcel,na,na
+CG004043236IS,InternationalParcel,2022-05-19T13:57:14+00:00,Pósthús Höfðabakka 9 C
+CG004017267IS,InternationalParcel,na,na
+CG004043298IS,InternationalParcel,2022-05-19T15:20:38+00:00,Póstbox Mjódd við Nettó
+CG004043338IS,InternationalParcel,2022-06-01T13:49:47+00:00,Pósthús Höfðabakka 9 C
+CG004043369IS,InternationalParcel,na,na
+CG004017488IS,InternationalParcel,na,na
+CG004043430IS,InternationalParcel,2022-05-19T15:14:08+00:00,Pósthús Akureyri
+CG004017559IS,InternationalParcel,2022-04-25T12:23:27+00:00,Pósthús Síðumúla 3-5
+CG004017620IS,InternationalParcel,na,na
+CG004017655IS,InternationalParcel,na,na
+CG004017718IS,InternationalParcel,na,na
+CG004043718IS,InternationalParcel,2022-05-19T16:58:48+00:00,Pósthús Kópavogi
+CG004017770IS,InternationalParcel,2022-04-25T13:30:13+00:00,Pósthús Akureyri
+CG004017810IS,InternationalParcel,na,na
+CG004043783IS,InternationalParcel,2022-05-19T17:08:10+00:00,Pósthús Kópavogi
+CG004017837IS,InternationalParcel,na,na
+CG004043806IS,InternationalParcel,na,na
+CG004043871IS,InternationalParcel,na,na
+CG004017925IS,InternationalParcel,2022-04-25T14:01:28+00:00,Pósthús Akureyri
+CG004017942IS,InternationalParcel,2022-04-25T14:15:53+00:00,Pósthús Reykjanesbæ
+CG004043908IS,InternationalParcel,2022-05-20T14:32:29+00:00,Pósthús Egilsstöðum
+CG004018024IS,InternationalParcel,2022-04-25T14:31:15+00:00,Pósthús Kópavogi
+CG004018126IS,InternationalParcel,2022-04-25T14:57:59+00:00,Pósthús Hagatorgi 1
+CG004018157IS,InternationalParcel,2022-04-25T15:21:50+00:00,Pósthús Vestmannaeyjum
+CG004044205IS,InternationalParcel,2022-05-20T13:36:26+00:00,Pósthús Höfðabakka 9 C
+CG004018302IS,InternationalParcel,2022-04-25T15:59:18+00:00,Pósthús Þönglabakka 4
+CG004018316IS,InternationalParcel,2022-04-25T16:01:01+00:00,Pósthús Reykjanesbæ
+CG004044333IS,InternationalParcel,na,na
+CG004044395IS,InternationalParcel,na,na
+CG004044404IS,InternationalParcel,na,na
+CG004044466IS,InternationalParcel,2022-05-20T14:42:21+00:00,Pósthús Kópavogi
+CG004044470IS,InternationalParcel,na,na
+CG004044545IS,InternationalParcel,2022-05-23T14:06:43+00:00,Póstmiðstöð
+CG004044568IS,InternationalParcel,2022-05-23T14:05:51+00:00,Póstmiðstöð
+CG004018625IS,InternationalParcel,2022-04-26T13:02:06+00:00,210
+CG004044625IS,InternationalParcel,2022-05-20T14:09:15+00:00,Pósthús Hagatorgi 1
+CG004044639IS,InternationalParcel,2022-05-20T14:07:32+00:00,Pósthús Hagatorgi 1
+CG004018829IS,InternationalParcel,2022-04-26T11:27:08+00:00,Pósthús Höfðabakka 9 C
+CG004018846IS,InternationalParcel,na,na
+CG004018877IS,InternationalParcel,na,na
+CG004018885IS,InternationalParcel,na,na
+CG004018894IS,InternationalParcel,2022-04-26T11:50:46+00:00,Pósthús Þönglabakka 4
+CG004018951IS,InternationalParcel,na,na
+CG004018965IS,InternationalParcel,na,na
+CG004019002IS,InternationalParcel,na,na
+CG004019016IS,InternationalParcel,na,na
+CG004044979IS,InternationalParcel,na,na
+CG004019033IS,InternationalParcel,na,na
+CG004019078IS,InternationalParcel,2022-04-26T17:15:09+00:00,Póstmiðstöð
+CG004045020IS,InternationalParcel,2022-05-21T02:00:38+00:00,Póstbox Keflavík við póst
+CG004019081IS,InternationalParcel,2022-04-27T11:08:28+00:00,Póstmiðstöð
+CG004019121IS,InternationalParcel,na,na
+CG004019135IS,InternationalParcel,na,na
+CG004019152IS,InternationalParcel,na,na
+CG004019206IS,InternationalParcel,na,na
+CG004019210IS,InternationalParcel,na,na
+CG004019237IS,InternationalParcel,na,na
+CG004045170IS,InternationalParcel,na,na
+CG004045183IS,InternationalParcel,2022-05-21T14:40:37+00:00,Póstbox Bíldshöfða við Hú
+CG004019254IS,InternationalParcel,na,na
+CG004019268IS,InternationalParcel,na,na
+CG004045210IS,InternationalParcel,na,na
+CG004019285IS,InternationalParcel,na,na
+CG004045245IS,InternationalParcel,2022-06-20T12:10:38+00:00,Pósthús Hagatorgi 1
+CG004045254IS,InternationalParcel,2022-05-23T12:06:34+00:00,Pósthús Höfðabakka 9 C
+CG004019325IS,InternationalParcel,na,na
+CG004019342IS,InternationalParcel,na,na
+CG004019360IS,InternationalParcel,na,na
+CG004045308IS,InternationalParcel,na,na
+CG004019373IS,InternationalParcel,na,na
+CG004019395IS,InternationalParcel,na,na
+CG004019400IS,InternationalParcel,na,na
+CG004019427IS,InternationalParcel,na,na
+CG004019444IS,InternationalParcel,na,na
+CG004019458IS,InternationalParcel,na,na
+CG004019461IS,InternationalParcel,na,na
+CG004045427IS,InternationalParcel,na,na
+CG004019492IS,InternationalParcel,na,na
+CG004045444IS,InternationalParcel,2022-05-23T09:52:14+00:00,Pósthús Hagatorgi 1
+CG004019546IS,InternationalParcel,na,na
+CG004045532IS,InternationalParcel,2022-05-23T09:52:14+00:00,Pósthús Hagatorgi 1
+CG004045546IS,InternationalParcel,2022-05-23T09:52:14+00:00,Pósthús Hagatorgi 1
+CG004045550IS,InternationalParcel,2022-05-23T09:52:14+00:00,Pósthús Hagatorgi 1
+CG004019625IS,InternationalParcel,na,na
+CG004019665IS,InternationalParcel,na,na
+CG004019679IS,InternationalParcel,2022-04-26T16:39:23+00:00,Pósthús Hagatorgi 1
+CG004045651IS,InternationalParcel,2022-05-23T15:30:50+00:00,Pósthús Blönduósi
+CG004019740IS,InternationalParcel,na,na
+CG004045736IS,InternationalParcel,2022-05-23T10:57:40+00:00,Pósthús Þönglabakka 4
+CG004045740IS,InternationalParcel,2022-05-23T18:04:17+00:00,Póstmiðstöð
+CG004045784IS,InternationalParcel,na,na
+CG004019890IS,InternationalParcel,2022-04-26T16:24:25+00:00,Pósthús Þönglabakka 4
+CG004045855IS,InternationalParcel,na,na
+CG004019965IS,InternationalParcel,na,na
+CG004045912IS,InternationalParcel,2022-05-24T14:22:03+00:00,Pósthús Reykjanesbær
+CG004019991IS,InternationalParcel,na,na
+CG004046008IS,InternationalParcel,2022-05-24T21:14:31+00:00,Póstbox Mosfellsbær við A
+CG004020102IS,InternationalParcel,2022-04-26T17:00:56+00:00,210
+CG004020116IS,InternationalParcel,2022-05-03T14:48:04+00:00,Póstmiðstöð
+CG004046039IS,InternationalParcel,na,na
+CG004020133IS,InternationalParcel,na,na
+CG004046087IS,InternationalParcel,na,na
+CG004046189IS,InternationalParcel,2022-05-23T13:03:33+00:00,Pósthús Þönglabakka 4
+CG004046201IS,InternationalParcel,na,na
+CG004046277IS,InternationalParcel,2022-05-24T16:53:24+00:00,Pósthús Hafnarfirði
+CG004046303IS,InternationalParcel,na,na
+CG004020460IS,InternationalParcel,2022-04-27T12:09:19+00:00,210
+CG004020473IS,InternationalParcel,na,na
+CG004046419IS,InternationalParcel,2022-05-23T14:21:31+00:00,Pósthús Höfðabakka 9 C
+CG004046436IS,InternationalParcel,na,na
+CG004046498IS,InternationalParcel,2022-05-23T14:42:17+00:00,Pósthús Reykjanesbæ
+CG004046507IS,InternationalParcel,na,na
+CG004046515IS,InternationalParcel,na,na
+CG004046541IS,InternationalParcel,na,na
+CG004046569IS,InternationalParcel,2022-05-23T15:04:43+00:00,Pósthús Síðumúla 3-5
+CG004046572IS,InternationalParcel,2022-05-25T11:11:32+00:00,Pósthús Höfðabakka 9 C
+CG004046612IS,InternationalParcel,2022-05-23T15:28:12+00:00,Pósthús Akranesi
+CG004020717IS,InternationalParcel,na,na
+CG004020725IS,InternationalParcel,2022-04-28T15:55:25+00:00,Póstmiðstöð
+CG004020734IS,InternationalParcel,2022-04-27T10:58:46+00:00,Pósthús Akureyri
+CG004020765IS,InternationalParcel,2022-04-28T17:04:06+00:00,Póstmiðstöð
+CG004020805IS,InternationalParcel,2022-04-28T15:55:04+00:00,Póstmiðstöð
+CG004046816IS,InternationalParcel,na,na
+CG004020898IS,InternationalParcel,2022-04-27T12:43:11+00:00,Pósthús Kópavogi
+CG004020915IS,InternationalParcel,2022-04-28T15:31:58+00:00,Póstmiðstöð
+CG004046878IS,InternationalParcel,2022-05-24T15:26:24+00:00,Pósthús Síðumúla 3-5
+CG004046895IS,InternationalParcel,2022-05-24T14:16:43+00:00,Pósthús Hagatorgi 1
+CG004046921IS,InternationalParcel,na,na
+CG004020986IS,InternationalParcel,na,na
+CG004046949IS,InternationalParcel,2022-05-24T15:17:40+00:00,Pósthús Borgarnesi
+CG004021023IS,InternationalParcel,2022-04-28T17:02:55+00:00,Póstmiðstöð
+CG004021045IS,InternationalParcel,2022-04-27T11:54:04+00:00,Pósthús Hafnarfirði
+CG004021054IS,InternationalParcel,2022-05-03T16:34:01+00:00,Pósthús Akureyri
+CG004021108IS,InternationalParcel,2022-04-27T14:16:26+00:00,Pósthús Hagatorgi 1
+CG004047238IS,InternationalParcel,2022-05-24T12:20:18+00:00,Pósthús Höfn
+CG004021332IS,InternationalParcel,2022-04-27T13:35:14+00:00,Pósthús Selfossi
+CG004021350IS,InternationalParcel,2022-04-28T15:30:02+00:00,Póstmiðstöð
+CG004047365IS,InternationalParcel,na,na
+CG004047374IS,InternationalParcel,2022-05-24T12:13:53+00:00,Pósthús Síðumúla 3-5
+CG004021425IS,InternationalParcel,2022-04-28T13:21:05+00:00,Póstmiðstöð
+CG004047388IS,InternationalParcel,2022-05-24T12:10:54+00:00,Pósthús Síðumúla 3-5
+CG004021448IS,InternationalParcel,2022-04-27T18:23:43+00:00,Pósthús Vík
+CG004047516IS,InternationalParcel,2022-05-24T13:18:04+00:00,Pósthús Hagatorgi 1
+CG004021638IS,InternationalParcel,na,na
+CG004047595IS,InternationalParcel,2022-05-24T13:58:20+00:00,Pósthús Neskaupstað
+CG004021726IS,InternationalParcel,2022-04-27T15:42:27+00:00,Pósthús Hafnarfirði
+CG004021788IS,InternationalParcel,2022-04-27T16:02:38+00:00,Pósthús Patreksfirði
+CG004021814IS,InternationalParcel,2022-04-27T16:16:07+00:00,Pósthús Hagatorgi 1
+CG004047799IS,InternationalParcel,2022-05-25T15:06:52+00:00,Pósthús Reykjanesbæ
+CG004021831IS,InternationalParcel,2022-04-27T16:20:25+00:00,Pósthús Hafnarfirði
+CG004021876IS,InternationalParcel,2022-04-27T16:37:00+00:00,Pósthús Þönglabakka 4
+CG004047860IS,InternationalParcel,na,na
+CG004047873IS,InternationalParcel,na,na
+CG004021947IS,InternationalParcel,2022-04-29T13:46:26+00:00,Pósthús Þönglabakka 4
+CG004047992IS,InternationalParcel,2022-05-25T12:56:51+00:00,Pósthús Selfossi
+CG004048009IS,InternationalParcel,2022-05-25T13:14:17+00:00,Pósthús Hagatorgi 1
+CG004048012IS,InternationalParcel,2022-05-25T12:56:51+00:00,Pósthús Selfossi
+CG004022085IS,InternationalParcel,na,na
+CG004048159IS,InternationalParcel,2022-05-25T10:37:46+00:00,Pósthús Hafnarfirði
+CG004048162IS,InternationalParcel,2022-05-25T10:37:46+00:00,Pósthús Hafnarfirði
+CG004048180IS,InternationalParcel,2022-05-25T11:31:47+00:00,Pósthús Hafnarfirði
+CG004048193IS,InternationalParcel,2022-05-25T10:37:46+00:00,Pósthús Hafnarfirði
+CG004022236IS,InternationalParcel,2022-04-28T11:45:34+00:00,Pósthús Síðumúla 3-5
+CG004048202IS,InternationalParcel,2022-05-25T10:37:46+00:00,Pósthús Hafnarfirði
+CG004048216IS,InternationalParcel,2022-05-25T10:37:46+00:00,Pósthús Hafnarfirði
+CG004048220IS,InternationalParcel,2022-05-25T10:37:46+00:00,Pósthús Hafnarfirði
+CG004048233IS,InternationalParcel,2022-05-25T10:37:46+00:00,Pósthús Hafnarfirði
+CG004048247IS,InternationalParcel,2022-05-25T10:37:46+00:00,Pósthús Hafnarfirði
+CG004048255IS,InternationalParcel,2022-05-25T10:37:46+00:00,Pósthús Hafnarfirði
+CG004048264IS,InternationalParcel,2022-05-25T10:37:46+00:00,Pósthús Hafnarfirði
+CG004022307IS,InternationalParcel,2022-04-29T14:08:36+00:00,Pósthús Mývatni
+CG004048278IS,InternationalParcel,2022-05-25T10:37:46+00:00,Pósthús Hafnarfirði
+CG004048281IS,InternationalParcel,2022-05-25T10:37:46+00:00,Pósthús Hafnarfirði
+CG004048295IS,InternationalParcel,2022-05-25T10:37:46+00:00,Pósthús Hafnarfirði
+CG004048304IS,InternationalParcel,2022-05-25T10:37:46+00:00,Pósthús Hafnarfirði
+CG004048321IS,InternationalParcel,2022-05-25T10:37:46+00:00,Pósthús Hafnarfirði
+CG004022369IS,InternationalParcel,2022-04-28T11:28:13+00:00,Pósthús Þönglabakka 4
+CG004048335IS,InternationalParcel,2022-05-25T10:37:46+00:00,Pósthús Hafnarfirði
+CG004048349IS,InternationalParcel,2022-05-25T10:37:46+00:00,Pósthús Hafnarfirði
+CG004048352IS,InternationalParcel,2022-05-25T10:37:46+00:00,Pósthús Hafnarfirði
+CG004048366IS,InternationalParcel,2022-05-25T07:04:31+00:00,Póstbox Keflavík við póst
+CG004048370IS,InternationalParcel,2022-05-25T10:37:46+00:00,Pósthús Hafnarfirði
+CG004022430IS,InternationalParcel,2022-04-28T11:22:38+00:00,Pósthús Hagatorgi 1
+CG004048423IS,InternationalParcel,na,na
+CG004048437IS,InternationalParcel,na,na
+CG004048445IS,InternationalParcel,na,na
+CG004048454IS,InternationalParcel,na,na
+CG004022491IS,InternationalParcel,2022-04-28T11:43:35+00:00,Pósthús Borgarnesi
+CG004048471IS,InternationalParcel,na,na
+CG004048485IS,InternationalParcel,na,na
+CG004048499IS,InternationalParcel,na,na
+CG004022531IS,InternationalParcel,na,na
+CG004048508IS,InternationalParcel,na,na
+CG004048511IS,InternationalParcel,na,na
+CG004048525IS,InternationalParcel,2022-05-27T11:48:15+00:00,Pósthús Selfossi
+CG004022562IS,InternationalParcel,na,na
+CG004048539IS,InternationalParcel,na,na
+CG004048542IS,InternationalParcel,na,na
+CG004048556IS,InternationalParcel,na,na
+CG004048560IS,InternationalParcel,na,na
+CG004048573IS,InternationalParcel,na,na
+CG004022616IS,InternationalParcel,2022-04-28T12:42:13+00:00,Pósthús Höfðabakka 9 C
+CG004048587IS,InternationalParcel,na,na
+CG004048595IS,InternationalParcel,na,na
+CG004048600IS,InternationalParcel,na,na
+CG004048613IS,InternationalParcel,na,na
+CG004048627IS,InternationalParcel,na,na
+CG004048635IS,InternationalParcel,na,na
+CG004048644IS,InternationalParcel,na,na
+CG004048658IS,InternationalParcel,na,na
+CG004048661IS,InternationalParcel,2022-05-27T15:48:42+00:00,Póstmiðstöð
+CG004048675IS,InternationalParcel,na,na
+CG004022704IS,InternationalParcel,2022-04-28T13:57:42+00:00,Pósthús Ólafsfirði
+CG004048701IS,InternationalParcel,na,na
+CG004048715IS,InternationalParcel,na,na
+CG004048729IS,InternationalParcel,na,na
+CG004048732IS,InternationalParcel,na,na
+CG004048746IS,InternationalParcel,na,na
+CG004048750IS,InternationalParcel,na,na
+CG004048763IS,InternationalParcel,na,na
+CG004048777IS,InternationalParcel,na,na
+CG004048785IS,InternationalParcel,na,na
+CG004048794IS,InternationalParcel,na,na
+CG004048803IS,InternationalParcel,na,na
+CG004048817IS,InternationalParcel,na,na
+CG004048825IS,InternationalParcel,na,na
+CG004048848IS,InternationalParcel,na,na
+CG004022911IS,InternationalParcel,na,na
+CG004048905IS,InternationalParcel,na,na
+CG004022939IS,InternationalParcel,2022-04-28T15:33:59+00:00,Pósthús Akranesi
+CG004022956IS,InternationalParcel,na,na
+CG004048953IS,InternationalParcel,2022-05-25T15:38:39+00:00,Póstmiðstöð
+CG004022987IS,InternationalParcel,na,na
+CG004048998IS,InternationalParcel,2022-05-25T12:21:33+00:00,Pósthús Vestmannaeyjum
+CG004049004IS,InternationalParcel,na,na
+CG004023069IS,InternationalParcel,2022-04-28T16:16:41+00:00,Pósthús Síðumúla 3-5
+CG004049049IS,InternationalParcel,2022-05-25T14:02:56+00:00,Pósthús Akranesi
+CG004023174IS,InternationalParcel,2022-04-29T09:30:59+00:00,Pósthús Þönglabakka 4
+CG004049171IS,InternationalParcel,2022-05-25T12:19:28+00:00,Pósthús Skagaströnd
+CG004023245IS,InternationalParcel,2022-04-29T15:47:17+00:00,Pósthús Hafnarfirði
+CG004049239IS,InternationalParcel,2022-05-25T12:14:06+00:00,Pósthús Hafnarfirði
+CG004023262IS,InternationalParcel,2022-04-29T15:47:18+00:00,Pósthús Hafnarfirði
+CG004023302IS,InternationalParcel,2022-04-29T15:42:14+00:00,Póstmiðstöð
+CG004023347IS,InternationalParcel,na,na
+CG004023355IS,InternationalParcel,na,na
+CG004023364IS,InternationalParcel,na,na
+CG004023378IS,InternationalParcel,na,na
+CG004023381IS,InternationalParcel,na,na
+CG004023404IS,InternationalParcel,na,na
+CG004023418IS,InternationalParcel,na,na
+CG004023421IS,InternationalParcel,2022-04-29T15:47:04+00:00,Pósthús Síðumúla 3-5
+CG004049450IS,InternationalParcel,na,na
+CG004049517IS,InternationalParcel,2022-05-25T13:54:13+00:00,Pósthús Hagatorgi 1
+CG004049565IS,InternationalParcel,2022-05-25T14:30:16+00:00,Pósthús Kópavogi
+CG004023656IS,InternationalParcel,na,na
+CG004049667IS,InternationalParcel,na,na
+CG004023713IS,InternationalParcel,2022-04-29T13:14:05+00:00,Pósthús Borgarnesi
+CG004023727IS,InternationalParcel,2022-04-29T15:47:19+00:00,Pósthús Hafnarfirði
+CG004049715IS,InternationalParcel,2022-06-02T12:24:30+00:00,Póstmiðstöð
+CG004023758IS,InternationalParcel,na,na
+CG004023789IS,InternationalParcel,na,na
+CG004049812IS,InternationalParcel,2022-05-31T10:02:16+00:00,Pósthús Kópavogi
+CG004023894IS,InternationalParcel,na,na
+CG004023917IS,InternationalParcel,na,na
+CG004049905IS,InternationalParcel,2022-05-27T17:08:44+00:00,Póstbox Miðvangi við Nett
+CG004049928IS,InternationalParcel,2022-05-27T13:17:51+00:00,Pósthús Reykjanesbær
+CG004023979IS,InternationalParcel,na,na
+CG004049945IS,InternationalParcel,2022-05-27T15:43:56+00:00,Pósthús Þönglabakka 4
+CG004024016IS,InternationalParcel,2022-04-29T15:08:38+00:00,Pósthús Síðumúla 3-5
+CG004049993IS,InternationalParcel,2022-05-27T13:59:43+00:00,Pósthús Hafnarfirði
+CG004024118IS,InternationalParcel,2022-04-29T16:03:56+00:00,270
+CG004024152IS,InternationalParcel,na,na
+CG004024166IS,InternationalParcel,na,na
+CG004050360IS,InternationalParcel,2022-05-27T10:47:43+00:00,Pósthús Hagatorgi 1
+CG004050413IS,InternationalParcel,2022-05-27T11:01:26+00:00,Pósthús Þönglabakka 4
+CG004024489IS,InternationalParcel,2022-05-02T19:04:09+00:00,Póstmiðstöð
+CG004024529IS,InternationalParcel,2022-05-02T11:57:05+00:00,Pósthús Kópavogi
+CG004050492IS,InternationalParcel,na,na
+CG004024603IS,InternationalParcel,2022-05-01T20:02:15+00:00,Póstbox Hraunbæ við Orkun
+CG004050617IS,InternationalParcel,2022-05-27T13:42:35+00:00,Pósthús Grindavík
+CG004024798IS,InternationalParcel,2022-05-02T09:36:08+00:00,Pósthús Síðumúla 3-5
+CG004050841IS,InternationalParcel,2022-05-27T14:05:59+00:00,Pósthús Kópavogi
+CG004024909IS,InternationalParcel,2022-05-02T10:09:54+00:00,Pósthús Hafnarfirði
+CG004050886IS,InternationalParcel,na,na
+CG004024957IS,InternationalParcel,na,na
+CG004050965IS,InternationalParcel,2022-05-27T14:51:03+00:00,Pósthús Síðumúla 3-5
+CG004050974IS,InternationalParcel,2022-05-27T14:54:08+00:00,Pósthús Þönglabakka 4
+CG004050988IS,InternationalParcel,2022-05-27T14:59:51+00:00,Pósthús Hagatorgi 1
+CG004051008IS,InternationalParcel,2022-05-27T14:59:47+00:00,Pósthús Síðumúla 3-5
+CG004051127IS,InternationalParcel,2022-05-27T16:03:45+00:00,Pósthús Hagatorgi 1
+CG004025192IS,InternationalParcel,2022-05-04T11:50:45+00:00,Póstmiðstöð
+CG004025250IS,InternationalParcel,2022-05-02T11:31:15+00:00,Pósthús Síðumúla 3-5
+CG004025294IS,InternationalParcel,2022-05-02T11:37:46+00:00,Pósthús Þönglabakka 4
+CG004051263IS,InternationalParcel,2022-05-30T16:46:41+00:00,Póstmiðstöð
+CG004025325IS,InternationalParcel,na,na
+CG004025334IS,InternationalParcel,2022-05-02T12:44:21+00:00,Pósthús Höfðabakka 9 C
+CG004025348IS,InternationalParcel,na,na
+CG004051325IS,InternationalParcel,2022-05-30T16:46:56+00:00,Póstmiðstöð
+CG004051348IS,InternationalParcel,na,na
+CG004025396IS,InternationalParcel,2022-05-02T14:13:40+00:00,Pósthús Hagatorgi 1
+CG004025440IS,InternationalParcel,na,na
+CG004051436IS,InternationalParcel,na,na
+CG004025475IS,InternationalParcel,na,na
+CG004051475IS,InternationalParcel,na,na
+CG004025515IS,InternationalParcel,2022-05-02T13:22:55+00:00,Pósthús Kópavogi
+CG004051572IS,InternationalParcel,na,na
+CG004051590IS,InternationalParcel,2022-05-30T12:09:16+00:00,Pósthús Kópavogi
+CG004051626IS,InternationalParcel,2022-05-30T12:09:16+00:00,Pósthús Kópavogi
+CG004025688IS,InternationalParcel,na,na
+CG004025745IS,InternationalParcel,2022-05-02T14:53:57+00:00,Pósthús Síðumúla 3-5
+CG004025759IS,InternationalParcel,2022-05-02T14:42:38+00:00,Pósthús Akureyri
+CG004051762IS,InternationalParcel,2022-05-30T19:38:44+00:00,Póstmiðstöð
+CG004051780IS,InternationalParcel,na,na
+CG004025802IS,InternationalParcel,na,na
+CG004051833IS,InternationalParcel,2022-05-30T10:29:42+00:00,Pósthús Þönglabakka 4
+CG004051966IS,InternationalParcel,2022-05-30T11:17:49+00:00,Pósthús Kópavogi
+CG004025983IS,InternationalParcel,2022-05-02T16:23:37+00:00,Pósthús Hagatorgi 1
+CG004051983IS,InternationalParcel,2022-05-30T11:19:18+00:00,Pósthús Síðumúla 3-5
+CG004026079IS,InternationalParcel,na,na
+CG004052079IS,InternationalParcel,2022-05-30T11:52:21+00:00,Pósthús Selfossi
+CG004026122IS,InternationalParcel,2022-05-03T10:39:11+00:00,Pósthús Hafnarfirði
+CG004052122IS,InternationalParcel,2022-05-30T16:50:33+00:00,Póstmiðstöð
+CG004052140IS,InternationalParcel,2022-05-30T19:30:51+00:00,Póstmiðstöð
+CG004052153IS,InternationalParcel,2022-05-30T16:58:45+00:00,Póstmiðstöð
+CG004026175IS,InternationalParcel,2022-05-03T18:40:52+00:00,Póstmiðstöð
+CG004052184IS,InternationalParcel,2022-05-30T12:30:47+00:00,Pósthús Reykjanesbæ
+CG004026241IS,InternationalParcel,na,na
+CG004052255IS,InternationalParcel,2022-05-30T13:00:54+00:00,Pósthús Síðumúla 3-5
+CG004052272IS,InternationalParcel,2022-05-30T12:58:48+00:00,Pósthús Selfossi
+CG004026290IS,InternationalParcel,2022-05-03T12:40:00+00:00,Pósthús Höfðabakka 9 C
+CG004052312IS,InternationalParcel,2022-05-30T13:14:47+00:00,Pósthús Hagatorgi 1
+CG004026330IS,InternationalParcel,na,na
+CG004052388IS,InternationalParcel,2022-05-30T14:55:27+00:00,Pósthús Vopnafirði
+CG004026391IS,InternationalParcel,na,na
+CG004052391IS,InternationalParcel,2022-05-30T13:23:59+00:00,Pósthús Egilsstöðum
+CG004052414IS,InternationalParcel,2022-05-30T13:23:59+00:00,Pósthús Egilsstöðum
+CG004052428IS,InternationalParcel,2022-05-31T14:16:44+00:00,Pósthús Reykjanesbær
+CG004026462IS,InternationalParcel,2022-05-06T10:40:01+00:00,Pósthús Hagatorgi 1
+CG004052476IS,InternationalParcel,2022-06-01T11:19:10+00:00,Pósthús Selfossi
+CG004052520IS,InternationalParcel,2022-05-30T16:02:55+00:00,Póstmiðstöð
+CG004026578IS,InternationalParcel,2022-05-03T11:41:14+00:00,Pósthús Grindavík
+CG004052581IS,InternationalParcel,2022-05-30T14:19:54+00:00,Pósthús Síðumúla 3-5
+CG004052618IS,InternationalParcel,2022-05-30T14:35:40+00:00,Pósthús Síðumúla 3-5
+CG004052621IS,InternationalParcel,2022-05-31T14:13:21+00:00,Pósthús Reykjanesbæ
+CG004026670IS,InternationalParcel,na,na
+CG004026710IS,InternationalParcel,na,na
+CG004026825IS,InternationalParcel,2022-05-03T14:18:52+00:00,Pósthús Reykjanesbæ
+CG004052825IS,InternationalParcel,na,na
+CG004026839IS,InternationalParcel,2022-05-03T12:54:28+00:00,Pósthús Grundarfirði
+CG004052935IS,InternationalParcel,2022-05-30T16:57:19+00:00,Pósthús Síðumúla 3-5
+CG004052958IS,InternationalParcel,na,na
+CG004052961IS,InternationalParcel,2022-05-31T09:49:18+00:00,Pósthús Hagatorgi 1
+CG004053012IS,InternationalParcel,2022-06-02T15:47:31+00:00,Pósthús Hagatorgi 1
+CG004053026IS,InternationalParcel,2022-05-30T20:08:46+00:00,Póstbox Mosfellsbær við A
+CG004053043IS,InternationalParcel,na,na
+CG004053074IS,InternationalParcel,na,na
+CG004053088IS,InternationalParcel,na,na
+CG004027233IS,InternationalParcel,na,na
+CG004053247IS,InternationalParcel,2022-05-31T10:25:40+00:00,Pósthús Kópavogi
+CG004027318IS,InternationalParcel,2022-05-03T16:03:42+00:00,Pósthús Húsavík
+CG004053321IS,InternationalParcel,na,na
+CG004053349IS,InternationalParcel,2022-05-31T11:20:57+00:00,Pósthús Akureyri
+CG004027352IS,InternationalParcel,2022-05-03T16:03:33+00:00,Pósthús Þönglabakka 4
+CG004053352IS,InternationalParcel,2022-05-31T12:55:10+00:00,Pósthús Höfðabakka 9 C
+CG004053370IS,InternationalParcel,na,na
+CG004027397IS,InternationalParcel,2022-05-03T16:21:02+00:00,Pósthús Höfðabakka 9 C
+CG004053397IS,InternationalParcel,2022-05-31T12:06:04+00:00,Pósthús Síðumúla 3-5
+CG004027410IS,InternationalParcel,2022-05-04T11:10:26+00:00,Pósthús Seyðisfirði
+CG004053445IS,InternationalParcel,na,na
+CG004053454IS,InternationalParcel,2022-05-31T12:37:25+00:00,Pósthús Þönglabakka 4
+CG004027468IS,InternationalParcel,na,na
+CG004053468IS,InternationalParcel,2022-05-31T12:32:01+00:00,Pósthús Reykjanesbæ
+CG004053485IS,InternationalParcel,2022-05-31T12:30:04+00:00,Pósthús Húsavík
+CG004053511IS,InternationalParcel,2022-05-31T12:59:02+00:00,Pósthús Akureyri
+CG004027525IS,InternationalParcel,2022-05-03T16:38:34+00:00,Pósthús Þönglabakka 4
+CG004027539IS,InternationalParcel,2022-05-03T16:49:03+00:00,Pósthús Hagatorgi 1
+CG004053556IS,InternationalParcel,2022-05-31T13:11:29+00:00,Pósthús Reykjanesbæ
+CG004027560IS,InternationalParcel,na,na
+CG004053573IS,InternationalParcel,na,na
+CG004027644IS,InternationalParcel,2022-05-04T13:25:10+00:00,Pósthús Hafnarfirði
+CG004053658IS,InternationalParcel,na,na
+CG004027661IS,InternationalParcel,na,na
+CG004027675IS,InternationalParcel,na,na
+CG004027689IS,InternationalParcel,na,na
+CG004053732IS,InternationalParcel,na,na
+CG004053750IS,InternationalParcel,na,na
+CG004053777IS,InternationalParcel,2022-05-31T14:31:11+00:00,Pósthús Síðumúla 3-5
+CG004053794IS,InternationalParcel,na,na
+CG004053825IS,InternationalParcel,2022-05-31T15:09:38+00:00,Pósthús Þönglabakka 4
+CG004053834IS,InternationalParcel,2022-06-02T16:10:47+00:00,Pósthús Hagatorgi 1
+CG004053896IS,InternationalParcel,2022-05-31T15:34:02+00:00,Pósthús Hafnarfirði
+CG004053905IS,InternationalParcel,2022-05-31T15:34:02+00:00,Pósthús Hafnarfirði
+CG004027967IS,InternationalParcel,2022-05-04T11:09:02+00:00,Pósthús Hagatorgi 1
+CG004054021IS,InternationalParcel,2022-06-01T15:12:33+00:00,Póstmiðstöð
+CG004028083IS,InternationalParcel,2022-05-04T12:35:26+00:00,Pósthús Vestmannaeyjum
+CG004028097IS,InternationalParcel,na,na
+CG004028106IS,InternationalParcel,na,na
+CG004028123IS,InternationalParcel,na,na
+CG004054154IS,InternationalParcel,na,na
+CG004028242IS,InternationalParcel,2022-05-04T14:33:18+00:00,Pósthús Selfossi
+CG004054260IS,InternationalParcel,na,na
+CG004054358IS,InternationalParcel,na,na
+CG004028415IS,InternationalParcel,2022-05-04T15:27:50+00:00,Pósthús Hafnarfirði
+CG004054450IS,InternationalParcel,2022-06-01T16:50:34+00:00,Póstmiðstöð
+CG004028551IS,InternationalParcel,na,na
+CG004028596IS,InternationalParcel,2022-05-04T16:18:36+00:00,Pósthús Selfossi
+CG004054653IS,InternationalParcel,na,na
+CG004028707IS,InternationalParcel,na,na
+CG004054741IS,InternationalParcel,2022-06-01T12:08:12+00:00,Pósthús Hafnarfirði
+CG004028769IS,InternationalParcel,na,na
+CG004054786IS,InternationalParcel,2022-06-01T12:58:41+00:00,Pósthús Vopnafirði
+CG004028865IS,InternationalParcel,na,na
+CG004054865IS,InternationalParcel,2022-06-01T13:11:12+00:00,Pósthús Hagatorgi 1
+CG004028891IS,InternationalParcel,na,na
+CG004028905IS,InternationalParcel,na,na
+CG004054905IS,InternationalParcel,2022-06-01T14:03:35+00:00,Pósthús Síðumúla 3-5
+CG004054945IS,InternationalParcel,2022-06-01T13:25:52+00:00,Pósthús Hagatorgi 1
+CG004029000IS,InternationalParcel,na,na
+CG004029027IS,InternationalParcel,2022-05-05T10:45:31+00:00,Pósthús Hagatorgi 1
+CG004029035IS,InternationalParcel,2022-05-05T10:48:43+00:00,Pósthús Akranesi
+CG004029075IS,InternationalParcel,na,na
+CG004055089IS,InternationalParcel,na,na
+CG004029101IS,InternationalParcel,2022-05-05T11:34:03+00:00,Pósthús Vestmannaeyjum
+CG004029115IS,InternationalParcel,2022-05-05T11:45:48+00:00,Pósthús Þönglabakka 4
+CG004055132IS,InternationalParcel,2022-06-01T14:38:51+00:00,Póstbox Barónsstíg við Ex
+CG004029163IS,InternationalParcel,na,na
+CG004055163IS,InternationalParcel,2022-06-01T14:40:04+00:00,Pósthús Akureyri
+CG004055177IS,InternationalParcel,na,na
+CG004055217IS,InternationalParcel,2022-06-01T14:47:04+00:00,Pósthús Hagatorgi 1
+CG004055248IS,InternationalParcel,2022-06-15T10:27:57+00:00,Póstmiðstöð
+CG004055279IS,InternationalParcel,na,na
+CG004029305IS,InternationalParcel,2022-05-05T14:08:30+00:00,Pósthús Hagatorgi 1
+CG004029441IS,InternationalParcel,2022-05-05T14:35:32+00:00,Pósthús Selfossi
+CG004055455IS,InternationalParcel,2022-06-02T10:26:37+00:00,Pósthús Hafnarfirði
+CG004029509IS,InternationalParcel,2022-05-10T11:44:45+00:00,Pósthús Síðumúla 3-5
+CG004055509IS,InternationalParcel,na,na
+CG004055530IS,InternationalParcel,na,na
+CG004055557IS,InternationalParcel,2022-06-02T13:57:05+00:00,Pósthús Dalvík
+CG004029628IS,InternationalParcel,2022-05-05T16:56:40+00:00,Pósthús Hagatorgi 1
+CG004055659IS,InternationalParcel,2022-06-09T13:37:11+00:00,Pósthús Hafnarfirði
+CG004055676IS,InternationalParcel,na,na
+CG004055693IS,InternationalParcel,na,na
+CG004029733IS,InternationalParcel,na,na
+CG004055733IS,InternationalParcel,2022-06-02T10:21:02+00:00,Pósthús Síðumúla 3-5
+CG004029781IS,InternationalParcel,2022-05-06T13:03:35+00:00,Pósthús Síðumúla 3-5
+CG004055764IS,InternationalParcel,2022-06-02T10:42:10+00:00,Pósthús Höfðabakka 9 C
+CG004029818IS,InternationalParcel,2022-05-08T16:52:27+00:00,Póstbox Garðabæ við Orkun
+CG004055821IS,InternationalParcel,2022-06-02T11:37:51+00:00,Pósthús Akureyri
+CG004029870IS,InternationalParcel,na,na
+CG004055866IS,InternationalParcel,2022-06-03T14:07:08+00:00,Pósthús Reykjanesbær
+CG004029937IS,InternationalParcel,2022-05-06T11:09:31+00:00,Pósthús Hagatorgi 1
+CG004030127IS,InternationalParcel,na,na
+CG004056107IS,InternationalParcel,2022-06-02T13:21:05+00:00,Pósthús Hagatorgi 1
+CG004056209IS,InternationalParcel,2022-06-02T14:44:37+00:00,Pósthús Höfðabakka 9 C
+CG004030250IS,InternationalParcel,2022-05-06T11:10:58+00:00,Pósthús Reykjanesbæ
+CG004030317IS,InternationalParcel,na,na
+CG004056305IS,InternationalParcel,2022-06-02T14:48:26+00:00,Póstbox Hvolsvelli við Or
+CG004056362IS,InternationalParcel,na,na
+CG004056549IS,InternationalParcel,2022-06-02T15:07:12+00:00,Pósthús Neskaupstað
+CG004056637IS,InternationalParcel,2022-06-03T10:59:21+00:00,Pósthús Þönglabakka 4
+CG004056645IS,InternationalParcel,2022-06-02T15:58:24+00:00,Pósthús Hagatorgi 1
+CG004030705IS,InternationalParcel,na,na
+CG004030745IS,InternationalParcel,2022-05-06T14:45:55+00:00,Pósthús Akureyri
+CG004056800IS,InternationalParcel,2022-06-02T17:02:01+00:00,Pósthús Akureyri
+CG004056875IS,InternationalParcel,na,na
+CG004056889IS,InternationalParcel,na,na
+CG004030921IS,InternationalParcel,2022-05-06T16:04:48+00:00,Pósthús Hagatorgi 1
+CG004056932IS,InternationalParcel,na,na
+CG004030966IS,InternationalParcel,2022-05-06T16:04:48+00:00,Pósthús Hagatorgi 1
+CG004056963IS,InternationalParcel,2022-06-03T11:42:06+00:00,Pósthús Þönglabakka 4
+CG004057014IS,InternationalParcel,2022-06-03T07:58:48+00:00,Póstbox Hvolsvelli við Or
+CG004057028IS,InternationalParcel,na,na
+CG004057031IS,InternationalParcel,2022-06-07T13:58:55+00:00,Pósthús Kópavogi
+CG004031105IS,InternationalParcel,na,na
+CG004031119IS,InternationalParcel,2022-05-27T14:19:18+00:00,Pósthús Hagatorgi 1
+CG004031122IS,InternationalParcel,na,na
+CG004057133IS,InternationalParcel,2022-06-03T10:36:08+00:00,Póstmiðstöð
+CG004031167IS,InternationalParcel,na,na
+CG004031175IS,InternationalParcel,na,na
+CG004057164IS,InternationalParcel,2022-06-03T10:04:17+00:00,Pósthús Hafnarfirði
+CG004031184IS,InternationalParcel,na,na
+CG004031224IS,InternationalParcel,na,na
+CG004031269IS,InternationalParcel,na,na
+CG004031290IS,InternationalParcel,na,na
+CG004031374IS,InternationalParcel,na,na
+CG004031431IS,InternationalParcel,2022-05-10T11:15:32+00:00,Pósthús Síðumúla 3-5
+CG004057439IS,InternationalParcel,2022-06-03T14:19:06+00:00,Pósthús Stykkishólmi
+CG004057487IS,InternationalParcel,2022-06-03T12:11:58+00:00,Pósthús Seyðisfirði
+CG004031516IS,InternationalParcel,2022-05-09T09:51:33+00:00,Pósthús Höfðabakka 9 C
+CG004057500IS,InternationalParcel,2022-06-03T12:23:18+00:00,Pósthús Hagatorgi 1
+CG004057513IS,InternationalParcel,2022-06-03T13:02:44+00:00,Pósthús Síðumúla 3-5
+CG004057535IS,InternationalParcel,2022-06-03T13:17:37+00:00,Pósthús Reykjanesbæ
+CG004057558IS,InternationalParcel,2022-06-03T13:17:37+00:00,Pósthús Reykjanesbæ
+CG004031578IS,InternationalParcel,2022-05-09T10:18:42+00:00,Pósthús Hagatorgi 1
+CG004031604IS,InternationalParcel,2022-05-09T10:40:38+00:00,Pósthús Kópavogi
+CG004057646IS,InternationalParcel,2022-06-03T12:56:36+00:00,Pósthús Þönglabakka 4
+CG004031666IS,InternationalParcel,2022-05-09T10:40:38+00:00,Pósthús Kópavogi
+CG004057725IS,InternationalParcel,2022-06-03T13:13:09+00:00,Pósthús Akureyri
+CG004057734IS,InternationalParcel,2022-06-03T13:18:14+00:00,Pósthús Síðumúla 3-5
+CG004031754IS,InternationalParcel,2022-05-09T12:31:54+00:00,Pósthús Síðumúla 3-5
+CG004031768IS,InternationalParcel,na,na
+CG004057765IS,InternationalParcel,2022-06-03T13:45:57+00:00,Pósthús Hvammstanga
+CG004057805IS,InternationalParcel,na,na
+CG004031860IS,InternationalParcel,2022-05-10T11:10:31+00:00,Póstmiðstöð
+CG004057884IS,InternationalParcel,na,na
+CG004031927IS,InternationalParcel,2022-05-10T10:25:12+00:00,Pósthús Höfðabakka 9 C
+CG004057938IS,InternationalParcel,2022-06-03T14:43:13+00:00,Pósthús Borgarnesi
+CG004057969IS,InternationalParcel,2022-06-03T14:48:13+00:00,Pósthús Hafnarfirði
+CG004032009IS,InternationalParcel,2022-05-09T12:39:18+00:00,Pósthús Siglufirði
+CG004032012IS,InternationalParcel,na,na
+CG004058006IS,InternationalParcel,2022-06-03T15:01:49+00:00,Pósthús Selfossi
+CG004032065IS,InternationalParcel,2022-05-10T11:43:03+00:00,Pósthús Selfossi
+CG004058085IS,InternationalParcel,na,na
+CG004058139IS,InternationalParcel,na,na
+CG004058156IS,InternationalParcel,na,na
+CG004058160IS,InternationalParcel,2022-06-05T16:36:46+00:00,Póstbox Birkimel við Orku
+CG004058187IS,InternationalParcel,na,na
+CG004032247IS,InternationalParcel,2022-05-09T13:38:31+00:00,Pósthús Reykjanesbæ
+CG004058275IS,InternationalParcel,2022-06-07T10:45:08+00:00,Pósthús Hólmavík
+CG004032318IS,InternationalParcel,2022-05-09T14:09:40+00:00,Pósthús Síðumúla 3-5
+CG004058332IS,InternationalParcel,2022-06-13T16:06:09+00:00,Pósthús Kópavogi
+CG004032383IS,InternationalParcel,na,na
+CG004058394IS,InternationalParcel,2022-06-07T17:18:54+00:00,Póstmiðstöð
+CG004058425IS,InternationalParcel,na,na
+CG004032560IS,InternationalParcel,na,na
+CG004032595IS,InternationalParcel,2022-05-09T19:50:20+00:00,Póstmiðstöð
+CG004058584IS,InternationalParcel,na,na
+CG004058730IS,InternationalParcel,2022-06-07T14:47:44+00:00,Pósthús Kópavogi
+CG004032750IS,InternationalParcel,2022-05-09T15:56:57+00:00,Pósthús Hafnarfirði
+CG004058774IS,InternationalParcel,2022-06-07T13:25:18+00:00,Pósthús Þönglabakka 4
+CG004058788IS,InternationalParcel,2022-06-14T17:29:49+00:00,Pósthús Kirkjubæjarklaust
+CG004058805IS,InternationalParcel,na,na
+CG004032851IS,InternationalParcel,2022-05-10T10:16:14+00:00,Pósthús Hafnarfirði
+CG004058859IS,InternationalParcel,2022-06-07T11:15:18+00:00,Pósthús Höfðabakka 9 C
+CG004058893IS,InternationalParcel,2022-06-07T17:24:43+00:00,Póstmiðstöð
+CG004058916IS,InternationalParcel,2022-06-07T09:41:01+00:00,Pósthús Hafnarfirði
+CG004032940IS,InternationalParcel,na,na
+CG004058933IS,InternationalParcel,na,na
+CG004032975IS,InternationalParcel,2022-05-09T16:59:29+00:00,Pósthús Reykjanesbæ
+CG004058964IS,InternationalParcel,2022-06-07T11:27:07+00:00,Póstmiðstöð
+CG004032998IS,InternationalParcel,2022-05-09T17:00:58+00:00,Pósthús Hagatorgi 1
+CG004033004IS,InternationalParcel,na,na
+CG004058995IS,InternationalParcel,2022-06-07T11:08:41+00:00,Póstmiðstöð
+CG004059015IS,InternationalParcel,2022-06-09T13:01:06+00:00,Póstmiðstöð
+CG004059063IS,InternationalParcel,2022-06-08T09:00:50+00:00,Póstmiðstöð
+CG004033199IS,InternationalParcel,na,na
+CG004060058IS,InternationalParcel,2022-06-07T16:12:17+00:00,Pósthús Síðumúla 3-5
+CG004033239IS,InternationalParcel,2022-05-10T14:58:50+00:00,Pósthús Egilsstöðum
+CG004033389IS,InternationalParcel,na,na
+CG004070126IS,InternationalParcel,2022-06-20T14:47:42+00:00,Pósthús Akranesi
+CG004033432IS,InternationalParcel,na,na
+CG004070157IS,InternationalParcel,2022-06-16T13:15:17+00:00,Pósthús Höfðabakka 9 C
+CG004090032IS,InternationalParcel,2022-07-07T14:02:07+00:00,Pósthús Síðumúla 3-5
+CG004090046IS,InternationalParcel,2022-07-07T14:40:03+00:00,Pósthús Reykjanesbær
+CG004033565IS,InternationalParcel,na,na
+CG004090063IS,InternationalParcel,2022-07-07T10:15:44+00:00,Pósthús Síðumúla 3-5
+CG004090085IS,InternationalParcel,2022-07-08T15:40:15+00:00,Pósthús Akureyri
+CG004090117IS,InternationalParcel,2022-07-07T10:10:47+00:00,Pósthús Kópavogi
+CG004090125IS,InternationalParcel,2022-07-08T11:59:35+00:00,Pósthús Reykjanesbær
+CG004033653IS,InternationalParcel,2022-05-10T11:54:01+00:00,Pósthús Akureyri
+CG004090134IS,InternationalParcel,2022-07-08T11:58:32+00:00,Pósthús Reykjanesbær
+CG004090148IS,InternationalParcel,2022-07-08T11:38:44+00:00,Pósthús Kópavogi
+CG004090151IS,InternationalParcel,2022-07-07T16:28:26+00:00,Póstmiðstöð
+CG004090165IS,InternationalParcel,2022-07-07T10:42:32+00:00,Pósthús Síðumúla 3-5
+CG004033698IS,InternationalParcel,2022-05-11T09:41:56+00:00,Pósthús Búðardal
+CG004090182IS,InternationalParcel,2022-07-07T10:40:28+00:00,Pósthús Kópavogi
+CG004090196IS,InternationalParcel,2022-07-07T10:46:30+00:00,Pósthús Þönglabakka 4
+CG004090205IS,InternationalParcel,2022-07-08T15:43:16+00:00,Pósthús Húsavík
+CG004090222IS,InternationalParcel,2022-07-07T10:50:37+00:00,Pósthús Síðumúla 3-5
+CG004090240IS,InternationalParcel,2022-07-07T10:55:58+00:00,Pósthús Síðumúla 3-5
+CG004090253IS,InternationalParcel,2022-07-07T11:02:26+00:00,Pósthús Hagatorgi 1
+CG004090267IS,InternationalParcel,2022-07-08T11:34:24+00:00,Pósthús Grindavík
+CG004090275IS,InternationalParcel,2022-07-07T11:15:47+00:00,Pósthús Höfn
+CG004090284IS,InternationalParcel,2022-07-07T11:10:07+00:00,Pósthús Kópavogi
+CG004090307IS,InternationalParcel,2022-07-07T11:12:17+00:00,Pósthús Grundarfirði
+CG004033865IS,InternationalParcel,2022-05-10T14:54:50+00:00,Pósthús Hagatorgi 1
+CG004033874IS,InternationalParcel,na,na
+CG004090355IS,InternationalParcel,2022-07-07T11:34:44+00:00,Pósthús Höfðabakka 9 C
+CG004090369IS,InternationalParcel,2022-07-07T11:35:47+00:00,Pósthús Síðumúla 3-5
+CG004090372IS,InternationalParcel,2022-07-07T11:49:26+00:00,Pósthús Síðumúla 3-5
+CG004090390IS,InternationalParcel,2022-07-08T12:14:35+00:00,Pósthús Búðardal
+CG004033931IS,InternationalParcel,2022-05-10T16:58:17+00:00,Póstmiðstöð
+CG004090409IS,InternationalParcel,2022-07-07T11:51:09+00:00,Pósthús Hagatorgi 1
+CG004090412IS,InternationalParcel,2022-07-07T12:05:51+00:00,Pósthús Höfðabakka 9 C
+CG004090426IS,InternationalParcel,2022-07-07T14:40:13+00:00,Pósthús Reykjanesbær
+CG004090430IS,InternationalParcel,2022-07-07T12:16:02+00:00,Pósthús Kópavogi
+CG004033993IS,InternationalParcel,2022-05-10T19:02:11+00:00,Póstmiðstöð
+CG004090457IS,InternationalParcel,2022-07-07T13:43:54+00:00,Pósthús Akranesi
+CG004090465IS,InternationalParcel,2022-07-07T12:26:46+00:00,Pósthús Höfðabakka 9 C
+CG004090491IS,InternationalParcel,2022-07-07T12:32:03+00:00,Pósthús Ísafirði
+CG004090505IS,InternationalParcel,2022-07-08T11:58:13+00:00,Pósthús Reykjanesbær
+CG004090514IS,InternationalParcel,2022-07-07T12:36:18+00:00,Pósthús Þórshöfn
+CG004090528IS,InternationalParcel,2022-07-07T12:36:00+00:00,Pósthús Höfðabakka 9 C
+CG004090531IS,InternationalParcel,na,na
+CG004090545IS,InternationalParcel,2022-07-07T18:20:27+00:00,Póstmiðstöð
+CG004090559IS,InternationalParcel,2022-07-07T13:00:32+00:00,Pósthús Kópavogi
+CG004090562IS,InternationalParcel,2022-07-07T12:59:15+00:00,Pósthús Síðumúla 3-5
+CG004090576IS,InternationalParcel,2022-07-07T13:11:38+00:00,Pósthús Kópavogi
+CG004090580IS,InternationalParcel,2022-07-07T13:01:50+00:00,Pósthús Stykkishólmi
+CG004090593IS,InternationalParcel,2022-07-07T13:06:34+00:00,Pósthús Kópavogi
+CG004090602IS,InternationalParcel,2022-07-07T13:27:35+00:00,Pósthús Síðumúla 3-5
+CG004090616IS,InternationalParcel,2022-07-08T13:30:38+00:00,Póstmiðstöð
+CG004090647IS,InternationalParcel,2022-07-07T14:26:55+00:00,Pósthús Hagatorgi 1
+CG004034203IS,InternationalParcel,2022-05-10T16:37:33+00:00,Pósthús Akureyri
+CG004090664IS,InternationalParcel,2022-07-08T11:33:58+00:00,Pósthús Akranesi
+CG004090678IS,InternationalParcel,2022-07-08T11:33:58+00:00,Pósthús Akranesi
+CG004090681IS,InternationalParcel,na,na
+CG004090704IS,InternationalParcel,2022-07-07T14:35:27+00:00,Pósthús Hagatorgi 1
+CG004090749IS,InternationalParcel,2022-07-07T13:57:19+00:00,Pósthús Höfðabakka 9 C
+CG004090752IS,InternationalParcel,2022-07-07T14:35:27+00:00,Pósthús Hagatorgi 1
+CG004090766IS,InternationalParcel,2022-07-08T11:38:40+00:00,Pósthús Kópavogi
+CG004090770IS,InternationalParcel,2022-07-07T14:35:27+00:00,Pósthús Hagatorgi 1
+CG004090797IS,InternationalParcel,2022-07-08T14:24:13+00:00,Pósthús Höfðabakka 9 C
+CG004034353IS,InternationalParcel,2022-05-10T17:07:44+00:00,Pósthús Síðumúla 3-5
+CG004090810IS,InternationalParcel,na,na
+CG004090823IS,InternationalParcel,2022-07-07T14:25:07+00:00,Pósthús Eskifirði
+CG004090837IS,InternationalParcel,na,na
+CG004034384IS,InternationalParcel,na,na
+CG004090845IS,InternationalParcel,2022-07-07T14:35:27+00:00,Pósthús Hagatorgi 1
+CG004090854IS,InternationalParcel,2022-07-08T10:46:16+00:00,Pósthús Hagatorgi 1
+CG004090868IS,InternationalParcel,2022-07-07T14:40:28+00:00,Pósthús Þönglabakka 4
+CG004090885IS,InternationalParcel,2022-07-07T14:35:27+00:00,Pósthús Hagatorgi 1
+CG004090899IS,InternationalParcel,2022-07-07T14:45:43+00:00,Pósthús Hafnarfirði
+CG004090908IS,InternationalParcel,2022-07-08T11:58:45+00:00,Pósthús Reykjanesbær
+CG004090939IS,InternationalParcel,2022-07-07T14:41:20+00:00,Pósthús Hagatorgi 1
+CG004090942IS,InternationalParcel,na,na
+CG004090956IS,InternationalParcel,2022-07-08T11:58:52+00:00,Pósthús Reykjanesbær
+CG004090960IS,InternationalParcel,2022-07-13T13:34:13+00:00,Pósthús Selfossi
+CG004090973IS,InternationalParcel,2022-07-07T18:16:50+00:00,Póstmiðstöð
+CG004034526IS,InternationalParcel,2022-05-11T10:06:39+00:00,Pósthús Reykjanesbæ
+CG004090987IS,InternationalParcel,2022-07-07T15:12:09+00:00,Pósthús Hagatorgi 1
+CG004091007IS,InternationalParcel,2022-07-11T15:28:35+00:00,Pósthús Reykjanesbær
+CG004091015IS,InternationalParcel,2022-07-08T11:58:41+00:00,Pósthús Reykjanesbær
+CG004091024IS,InternationalParcel,2022-07-07T15:49:09+00:00,Pósthús Húsavík
+CG004091041IS,InternationalParcel,2022-07-07T15:43:01+00:00,Pósthús Hagatorgi 1
+CG004091055IS,InternationalParcel,2022-07-08T15:05:45+00:00,Pósthús Selfossi
+CG004091069IS,InternationalParcel,2022-07-08T11:42:31+00:00,Pósthús Mývatni
+CG004091072IS,InternationalParcel,2022-07-08T11:38:47+00:00,Pósthús Hagatorgi 1
+CG004091086IS,InternationalParcel,2022-07-07T15:56:21+00:00,Pósthús Síðumúla 3-5
+CG004091090IS,InternationalParcel,2022-07-08T10:19:58+00:00,Pósthús Dalvík
+CG004034645IS,InternationalParcel,na,na
+CG004091109IS,InternationalParcel,2022-07-07T15:58:15+00:00,Pósthús Kópavogi
+CG004091112IS,InternationalParcel,2022-07-08T11:38:47+00:00,Pósthús Hagatorgi 1
+CG004091126IS,InternationalParcel,na,na
+CG004091130IS,InternationalParcel,2022-07-07T16:13:41+00:00,Pósthús Hafnarfirði
+CG004091157IS,InternationalParcel,2022-07-08T14:33:07+00:00,Pósthús Selfossi
+CG004091174IS,InternationalParcel,2022-07-07T16:34:30+00:00,Pósthús Síðumúla 3-5
+CG004091188IS,InternationalParcel,2022-07-07T16:34:30+00:00,Pósthús Síðumúla 3-5
+CG004091191IS,InternationalParcel,2022-07-11T11:31:00+00:00,Pósthús Hagatorgi 1
+CG004091214IS,InternationalParcel,2022-07-11T13:56:59+00:00,Pósthús Hagatorgi 1
+CG004034764IS,InternationalParcel,2022-05-11T11:13:38+00:00,Pósthús Þönglabakka 4
+CG004091228IS,InternationalParcel,2022-07-08T15:34:29+00:00,Póstmiðstöð
+CG004091231IS,InternationalParcel,2022-07-08T11:20:33+00:00,Pósthús Reykjanesbæ
+CG004091245IS,InternationalParcel,2022-07-08T09:50:52+00:00,Pósthús Vestmannaeyjum
+CG004034795IS,InternationalParcel,na,na
+CG004091259IS,InternationalParcel,2022-07-08T14:30:34+00:00,Pósthús Höfðabakka 9 C
+CG004091262IS,InternationalParcel,na,na
+CG004034821IS,InternationalParcel,2022-05-11T11:33:04+00:00,Pósthús Kópavogi
+CG004091293IS,InternationalParcel,2022-07-08T15:32:30+00:00,Póstmiðstöð
+CG004091302IS,InternationalParcel,2022-07-08T16:39:27+00:00,Póstmiðstöð
+CG004091316IS,InternationalParcel,2022-07-08T11:13:37+00:00,Pósthús Selfossi
+CG004091320IS,InternationalParcel,2022-07-08T13:04:53+00:00,Pósthús Síðumúla 3-5
+CG004091333IS,InternationalParcel,2022-07-12T17:28:48+00:00,Póstmiðstöð
+CG004091347IS,InternationalParcel,2022-07-08T08:49:10+00:00,Pósthús Selfossi
+CG004091364IS,InternationalParcel,2022-07-08T11:58:36+00:00,Pósthús Reykjanesbær
+CG004034906IS,InternationalParcel,na,na
+CG004034910IS,InternationalParcel,2022-05-11T12:08:29+00:00,Pósthús Kópavogi
+CG004091395IS,InternationalParcel,2022-07-08T12:40:51+00:00,Pósthús Akranesi
+CG004091404IS,InternationalParcel,2022-07-08T12:03:01+00:00,Pósthús Reykjanesbær
+CG004091418IS,InternationalParcel,2022-07-08T09:22:48+00:00,Pósthús Búðardal
+CG004091421IS,InternationalParcel,2022-07-08T14:53:29+00:00,Pósthús Reykjanesbæ
+CG004091449IS,InternationalParcel,2022-07-08T16:07:06+00:00,Póstmiðstöð
+CG004091452IS,InternationalParcel,2022-07-08T10:38:48+00:00,Pósthús Hagatorgi 1
+CG004091466IS,InternationalParcel,2022-07-08T10:38:48+00:00,Pósthús Hagatorgi 1
+CG004091470IS,InternationalParcel,2022-07-08T10:21:13+00:00,Pósthús Kópavogi
+CG004091483IS,InternationalParcel,2022-07-08T18:34:39+00:00,Póstmiðstöð
+CG004091497IS,InternationalParcel,2022-07-08T15:46:32+00:00,Póstmiðstöð
+CG004091506IS,InternationalParcel,2022-07-08T10:47:42+00:00,Pósthús Akureyri
+CG004091510IS,InternationalParcel,na,na
+CG004035053IS,InternationalParcel,2022-05-11T13:28:49+00:00,Pósthús Reykjanesbæ
+CG004091537IS,InternationalParcel,2022-07-08T14:05:30+00:00,Pósthús Sauðárkróki
+CG004035107IS,InternationalParcel,na,na
+CG004091554IS,InternationalParcel,2022-07-08T11:39:22+00:00,Pósthús Höfðabakka 9 C
+CG004091568IS,InternationalParcel,2022-07-08T11:46:06+00:00,Pósthús Reykjanesbæ
+CG004035155IS,InternationalParcel,2022-05-11T14:26:47+00:00,Pósthús Ólafsvík
+CG004035169IS,InternationalParcel,na,na
+CG004091571IS,InternationalParcel,2022-07-08T16:42:53+00:00,Póstmiðstöð
+CG004091585IS,InternationalParcel,2022-07-08T14:04:42+00:00,Póstmiðstöð
+CG004091599IS,InternationalParcel,2022-07-08T10:44:43+00:00,Pósthús Hafnarfirði
+CG004091608IS,InternationalParcel,2022-07-08T14:43:08+00:00,Pósthús Sauðárkróki
+CG004035230IS,InternationalParcel,na,na
+CG004090085IS,InternationalParcel,2022-07-08T15:40:15+00:00,Pósthús Akureyri
+CG004035495IS,InternationalParcel,na,na
+CG004035504IS,InternationalParcel,na,na
+CG004091660IS,InternationalParcel,na,na
+CG004091735IS,InternationalParcel,2022-07-08T11:40:54+00:00,Pósthús Akureyri
+CG004035583IS,InternationalParcel,na,na
+CG004035597IS,InternationalParcel,na,na
+CG004091758IS,InternationalParcel,na,na
+CG004091829IS,InternationalParcel,na,na
+CG004091877IS,InternationalParcel,na,na
+CG004091903IS,InternationalParcel,2022-07-12T16:00:55+00:00,Pósthús Akureyri
+CG004091925IS,InternationalParcel,2022-07-08T13:25:10+00:00,Pósthús Akureyri
+CG004091934IS,InternationalParcel,2022-07-08T15:42:12+00:00,Pósthús Akureyri
+CG004091948IS,InternationalParcel,na,na
+CG004092020IS,InternationalParcel,2022-07-08T15:13:52+00:00,Pósthús Akureyri
+CG004035889IS,InternationalParcel,na,na
+CG004035892IS,InternationalParcel,na,na
+CG004035901IS,InternationalParcel,na,na
+CG004035915IS,InternationalParcel,na,na
+CG004035929IS,InternationalParcel,na,na
+CG004036005IS,InternationalParcel,na,na
+CG004036093IS,InternationalParcel,na,na
+CG004092308IS,InternationalParcel,na,na
+CG004036155IS,InternationalParcel,na,na
+CG004092342IS,InternationalParcel,na,na
+CG004092550IS,InternationalParcel,na,na
+CG004092617IS,InternationalParcel,na,na
+CG004036460IS,InternationalParcel,na,na
+CG004092648IS,InternationalParcel,na,na
+CG004092665IS,InternationalParcel,na,na
+CG004092679IS,InternationalParcel,na,na
+CG004092736IS,InternationalParcel,na,na
+CG004092740IS,InternationalParcel,na,na
+CG004092784IS,InternationalParcel,na,na
+CG004092886IS,InternationalParcel,na,na
+CG004092890IS,InternationalParcel,2022-07-11T15:00:19+00:00,Pósthús Akureyri
+CG004092909IS,InternationalParcel,na,na
+CG004036805IS,InternationalParcel,na,na
+CG004036836IS,InternationalParcel,na,na
+CG004036840IS,InternationalParcel,na,na
+CG004093056IS,InternationalParcel,na,na
+CG004093060IS,InternationalParcel,2022-07-11T09:44:33+00:00,Pósthús Akureyri
+CG004093144IS,InternationalParcel,na,na
+CG004037213IS,InternationalParcel,na,na
+CG004093382IS,InternationalParcel,na,na
+CG004093405IS,InternationalParcel,na,na
+CG004093419IS,InternationalParcel,2022-07-11T11:20:26+00:00,Pósthús Akureyri
+CG004037258IS,InternationalParcel,na,na
+CG004093422IS,InternationalParcel,2022-07-11T11:20:26+00:00,Pósthús Akureyri
+CG004093453IS,InternationalParcel,na,na
+CG004093569IS,InternationalParcel,2022-07-11T12:22:30+00:00,Pósthús Akureyri
+CG004093705IS,InternationalParcel,na,na
+CG004037859IS,InternationalParcel,na,na
+CG004094048IS,InternationalParcel,na,na
+CG004037916IS,InternationalParcel,na,na
+CG004037995IS,InternationalParcel,na,na
+CG004094153IS,InternationalParcel,2022-07-11T14:52:18+00:00,Pósthús Akureyri
+CG004094255IS,InternationalParcel,2022-07-11T15:19:01+00:00,Pósthús Akureyri
+CG004094272IS,InternationalParcel,na,na
+CG004038125IS,InternationalParcel,na,na
+CG004038196IS,InternationalParcel,na,na
+CG004094365IS,InternationalParcel,na,na
+CG004094431IS,InternationalParcel,2022-07-11T16:10:57+00:00,Pósthús Akureyri
+CG004094493IS,InternationalParcel,na,na
+CG004094604IS,InternationalParcel,na,na
+CG004038465IS,InternationalParcel,na,na
+CG004094635IS,InternationalParcel,na,na
+CG004094649IS,InternationalParcel,na,na
+CG004038576IS,InternationalParcel,na,na
+CG004094710IS,InternationalParcel,na,na
+CG004038580IS,InternationalParcel,na,na
+CG004038593IS,InternationalParcel,na,na
+CG004038602IS,InternationalParcel,na,na
+CG004038616IS,InternationalParcel,na,na
+CG004094768IS,InternationalParcel,na,na
+CG004094839IS,InternationalParcel,na,na
+CG004094958IS,InternationalParcel,na,na
+CG004094961IS,InternationalParcel,na,na
+CG004038837IS,InternationalParcel,na,na
+CG004038885IS,InternationalParcel,na,na
+CG004095145IS,InternationalParcel,na,na
+CG004095176IS,InternationalParcel,2022-07-12T12:06:19+00:00,Pósthús Akureyri
+CG004095220IS,InternationalParcel,na,na
+CG004039143IS,InternationalParcel,na,na
+CG004095295IS,InternationalParcel,na,na
+CG004095318IS,InternationalParcel,2022-07-12T13:59:05+00:00,Pósthús Akureyri
+CG004039231IS,InternationalParcel,na,na
+CG004095383IS,InternationalParcel,2022-07-12T06:12:50+00:00,Pósthús Akureyri
+CG004039245IS,InternationalParcel,na,na
+CG004039276IS,InternationalParcel,na,na
+CG004039435IS,InternationalParcel,na,na
+CG004095595IS,InternationalParcel,na,na
+CG004095613IS,InternationalParcel,na,na
+CG004095644IS,InternationalParcel,na,na
+CG004039608IS,InternationalParcel,na,na
+CG004095750IS,InternationalParcel,2022-07-12T16:29:10+00:00,Pósthús Akureyri
+CG004095896IS,InternationalParcel,na,na
+CG004095905IS,InternationalParcel,na,na
+CG004095919IS,InternationalParcel,na,na
+CG004095922IS,InternationalParcel,na,na
+CG004095998IS,InternationalParcel,na,na
+CG004096021IS,InternationalParcel,na,na
+CG004096035IS,InternationalParcel,na,na
+CG004096052IS,InternationalParcel,na,na
+CG004096070IS,InternationalParcel,2022-07-13T12:03:39+00:00,Pósthús Akureyri
+CG004096083IS,InternationalParcel,2022-07-13T10:24:46+00:00,Pósthús Akureyri
+CG004096097IS,InternationalParcel,2022-07-13T10:25:06+00:00,Pósthús Akureyri
+CG004096123IS,InternationalParcel,na,na
+CG004096137IS,InternationalParcel,na,na
+CG004096154IS,InternationalParcel,na,na
+CG004096199IS,InternationalParcel,na,na
+CG004040067IS,InternationalParcel,na,na
+CG004096239IS,InternationalParcel,2022-07-13T10:31:34+00:00,Pósthús Akureyri
+CG004040212IS,InternationalParcel,na,na
+CG004096358IS,InternationalParcel,na,na
+CG004096389IS,InternationalParcel,2022-07-13T11:26:02+00:00,Pósthús Akureyri
+CG004096432IS,InternationalParcel,na,na
+CG004096463IS,InternationalParcel,na,na
+CG004040345IS,InternationalParcel,na,na
+CG004096494IS,InternationalParcel,2022-07-13T16:51:20+00:00,Pósthús Akureyri
+CG004096503IS,InternationalParcel,na,na
+CG004096548IS,InternationalParcel,na,na
+CG004096622IS,InternationalParcel,na,na
+CG004096653IS,InternationalParcel,na,na
+CG004096667IS,InternationalParcel,na,na
+CG004096684IS,InternationalParcel,na,na
+CG004096724IS,InternationalParcel,na,na
+CG004096738IS,InternationalParcel,na,na
+CG004096772IS,InternationalParcel,na,na
+CG004096790IS,InternationalParcel,na,na
+CG004096809IS,InternationalParcel,2022-07-13T15:00:25+00:00,Pósthús Akureyri
+CG004040725IS,InternationalParcel,na,na
+CG004096905IS,InternationalParcel,na,na
+CG004096928IS,InternationalParcel,na,na
+CG004096959IS,InternationalParcel,na,na
+CG004096976IS,InternationalParcel,2022-07-13T16:07:09+00:00,Pósthús Akureyri
+CG004096980IS,InternationalParcel,2022-07-13T16:01:30+00:00,Pósthús Akureyri
+CG004096993IS,InternationalParcel,na,na
+CG004040858IS,InternationalParcel,2022-05-17T14:20:54+00:00,Pósthús Akureyri
+CG004097027IS,InternationalParcel,2022-07-13T16:20:06+00:00,Pósthús Akureyri
+CG004097035IS,InternationalParcel,na,na
+CG004097058IS,InternationalParcel,na,na
+CG004097089IS,InternationalParcel,na,na
+CG004097092IS,InternationalParcel,na,na
+CG004097146IS,InternationalParcel,na,na
+CG004097150IS,InternationalParcel,na,na
+CG004097203IS,InternationalParcel,na,na
+CG004097217IS,InternationalParcel,na,na
+CG004097225IS,InternationalParcel,na,na
+CG004097234IS,InternationalParcel,na,na
+CG004097248IS,InternationalParcel,na,na
+CG004097251IS,InternationalParcel,na,na
+CG004097265IS,InternationalParcel,na,na
+CG004097279IS,InternationalParcel,na,na
+CG004097282IS,InternationalParcel,na,na
+CG004097296IS,InternationalParcel,na,na
+CG004097305IS,InternationalParcel,na,na
+CG004041252IS,InternationalParcel,na,na
+CG004041779IS,InternationalParcel,na,na
+CG004042301IS,InternationalParcel,na,na
